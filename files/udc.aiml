@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+     <category>
+    <pattern>test</pattern>
+    <template>
+        <image>https://png.pngtree.com/png-clipart/20190515/original/pngtree-instagram-social-media-icon-png-image_3572487.jpg</image>
+    </template> 
+</category>
+
+<category>
+         <pattern>do you like chatbots  </pattern>
+         <template>
+             <reply>
+                 <text>yes</text>
+                 <postback>yeslikechatbots</postback>
+             </reply>
+             <reply>
+                 <text>no</text>
+                 <postback>nolikechatbots</postback>
+             </reply>
+         </template>
+     </category>
+     
+     <category>
+         <pattern>yeslikechatbots</pattern>
+         <template>oh nice</template>
+     </category>
+     <category>
+         <pattern>nolikechatbots</pattern>
+         <template>thats a shame</template>
+     </category>
+  
+ 
+    
+    
+</aiml>
