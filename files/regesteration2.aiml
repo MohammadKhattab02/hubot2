@@ -5,10 +5,10 @@
     <pattern>I have placement test scores at another university Can I equalize them and be exempted from taking the placement test at the university</pattern>
     <template>
         Yes: by bringing an original transcript from the university and reviewing the relevant registrar (on campus).
-        <button>
+        <link>
             <text>Find more here</text>
             <url>https://hu.edu.jo/unitCenter/index.aspx?typ=67&amp;unitid=40000000</url>
-        </button>
+        </link>
     </template>
 </category>
 
@@ -42,7 +42,7 @@
 </category>
 
 <category>
-    <pattern>What's the process to equalize placement test scores from another university for exemption here</pattern>
+    <pattern>What is the process to equalize placement test scores from another university for exemption here</pattern>
     <template>
         <srai>I have placement test scores at another university. Can I equalize them and be exempted from taking the placement test at the university</srai>
     </template>
@@ -70,7 +70,7 @@
 </category>
 
 <category>
-    <pattern>What's the procedure for using placement test scores from another university to get exempted</pattern>
+    <pattern>What is the procedure for using placement test scores from another university to get exempted</pattern>
     <template>
         <srai>I have placement test scores at another university. Can I equalize them and be exempted from taking the placement test at the university</srai>
     </template>
@@ -112,7 +112,7 @@
 </category>
 
 <category>
-    <pattern>What's the process to equalize placement test scores from another university for exemption here</pattern>
+    <pattern>What is the process to equalize placement test scores from another university for exemption here</pattern>
     <template>
         <srai>I have placement test scores at another university. Can I equalize them and be exempted from taking the placement test at the university</srai>
     </template>
@@ -140,7 +140,7 @@
 </category>
 
 <category>
-    <pattern>What's the procedure for using placement test scores from another university to get exempted</pattern>
+    <pattern>What is the procedure for using placement test scores from another university to get exempted</pattern>
     <template>
         <srai>I have placement test scores at another university. Can I equalize them and be exempted from taking the placement test at the university</srai>
     </template>

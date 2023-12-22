@@ -154,7 +154,7 @@
 </category>
 
 <category>
-    <pattern>If a disabled student's name is not on the unified admission list, what are the required actions</pattern>
+    <pattern>If a disabled student name is not on the unified admission list what are the required actions</pattern>
     <template><srai>What is the procedure if the name of the disability student is not on the unified admission list Disabled students</srai></template>
 </category>
 
@@ -169,7 +169,7 @@
 </category>
 
 <category>
-    <pattern>If a disabled student is not on the unified admission list, what actions should they take</pattern>
+    <pattern>If a disabled student is not on the unified admission list what actions should they take</pattern>
     <template><srai>What is the procedure if the name of the disability student is not on the unified admission list Disabled students</srai></template>
 </category>
 
@@ -292,7 +292,7 @@
 </category>
 
 <category>
-    <pattern>What support is available, including readers and sign language interpreters, for disabled students</pattern>
+    <pattern>What support is available including readers and sign language interpreters for disabled students</pattern>
     <template><srai>Is the university provides readers and sign language interpreters for the disabled students</srai></template>
 </category>
 
@@ -322,12 +322,12 @@
 </category>
 
 <category>
-    <pattern>What resources, including readers and sign language interpreters, are available for disabled students at the university</pattern>
+    <pattern>What resources including readers and sign language interpreters are available for disabled students at the university</pattern>
     <template><srai>Is the university provides readers and sign language interpreters for the disabled students</srai></template>
 </category>
 
 <category>
-    <pattern>Is there support for disabled students, such as readers and sign language interpreters, provided by the university</pattern>
+    <pattern>Is there support for disabled students such as readers and sign language interpreters provided by the university</pattern>
     <template><srai>Is the university provides readers and sign language interpreters for the disabled students</srai></template>
 </category>
 
@@ -342,7 +342,7 @@
 </category>
 
 <category>
-    <pattern>Is assistance available, including readers and sign language interpreters, for disabled students at the university</pattern>
+    <pattern>Is assistance available including readers and sign language interpreters for disabled students at the university</pattern>
     <template><srai>Is the university provides readers and sign language interpreters for the disabled students</srai></template>
 </category>
 
@@ -605,4 +605,3 @@
 </category>
 
 </aiml>
-

@@ -2,7 +2,7 @@
 <aiml version="2.0">
 	
 	<category>
-	    <pattern>^ Psychological Counseling ^</pattern>
+	    <pattern>^ Psychological ^ Counseling ^</pattern>
 	    <template>
 	        <ol>
 	            <li>open student portal</li>

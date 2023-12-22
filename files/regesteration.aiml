@@ -11,7 +11,7 @@
 </category>
 
 <category>
-    <pattern>Can I enroll via the internet, and is there a mobile app or a website</pattern>
+    <pattern>Can I enroll via the internet and is there a mobile app or a website</pattern>
     <template>
         Yes, you can register online through the official university website.
         To access the website, simply <link><text>click here</text><url>https://reg2.hu.edu.jo/Default.aspx</url></link>.
@@ -59,7 +59,7 @@
 </category>
 
 <category>
-    <pattern>Register on the internet?</pattern>
+    <pattern>Register on the internet</pattern>
     <template>
         Yes, you can register online by visiting the official university website.
         Simply <link><text>click here</text><url>https://reg2.hu.edu.jo/Default.aspx</url></link>.
@@ -171,14 +171,14 @@
 </category>
 
 <category>
-    <pattern>What's the process for obtaining my university portal username and password</pattern>
+    <pattern>What is the process for obtaining my university portal username and password</pattern>
     <template>
         <srai>How can I get the username and password</srai>    
     </template>
 </category>
 
 <category>
-    <pattern>What's the process for obtaining my portal username and password</pattern>
+    <pattern>What is the process for obtaining my portal username and password</pattern>
     <template>
         <srai>How can I get the username and password</srai>    
     </template>
@@ -213,7 +213,7 @@
 </category>
 
 <category>
-    <pattern>I need my university portal login credentials. How do I obtain them</pattern>
+    <pattern>I need my university portal login credentials How do I obtain them</pattern>
     <template>
         <srai>How can I get the username and password</srai>    
     </template>
@@ -227,7 +227,7 @@
 </category>
 
 <category>
-    <pattern>What's the way to access the university portal using a username and password</pattern>
+    <pattern>What is the way to access the university portal using a username and password</pattern>
     <template>
         <srai>How can I get the username and password</srai>    
     </template>
@@ -255,7 +255,7 @@
 </category>
 
 <category>
-    <pattern>What's the process for gaining access to the university portal with a username and password</pattern>
+    <pattern>What is the process for gaining access to the university portal with a username and password</pattern>
     <template>
         <srai>How can I get the username and password</srai>    
     </template>
@@ -325,7 +325,7 @@
 
 
 <category>
-    <pattern>How and when is the placement exam Arabic, English, Computer conducted for new students</pattern>
+    <pattern>How and when is the placement exam Arabic English Computer conducted for new students</pattern>
     <template>
         After paying the fees, the student enters through the student portal:
         registration services - exams - electronic/paper exams, finds appointments and laboratories.
@@ -335,257 +335,253 @@
 <category>
     <pattern>How and when is the placement exam conducted for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>when is the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>How can I know where the placement exam is conducted for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>How can I know when is the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>I can't find when the placement exam is</pattern>
+    <pattern>I cant find when the placement exam is</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>I can't find where the placement exam is</pattern>
+    <pattern>I cant find where the placement exam is</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>What is the schedule for the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>Give me details about the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>When and where can I take the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>How to register for the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>When is the placement exam held for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>How do I sign up for the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>What is the procedure for the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>When can I expect the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>How to get information about the placement exam schedule for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>Where to find details on the new students' placement exam</pattern>
+    <pattern>Where to find details on the new students placement exam</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>When are the new students' placement exams conducted</pattern>
+    <pattern>When are the new students placement exams conducted</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>Tell me about the placement exam for new students' scheduling</pattern>
+    <pattern>Tell me about the placement exam for new students scheduling</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>When and where to find the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>How to enroll in the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>When is the placement exam available for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>How to book a slot for the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>Explain the process for scheduling the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>When and where are the new students' placement exams available</pattern>
+    <pattern>When and where are the new students placement exams available</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>How to get details about the placement exam for new students' schedule</pattern>
+    <pattern>How to get details about the placement exam for new students schedule</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>Where can I find information about the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>How is the placement exam for new students scheduled</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>What's the procedure for the placement exam for new students</pattern>
+    <pattern>What is the procedure for the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>When do new students take the placement exam</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>Explain the process of the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>How to find information about the placement exam schedule</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>Where can I get details on the new students' placement exam</pattern>
+    <pattern>Where can I get details on the new students placement exam</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>Is there a specific date for the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>Provide information about the new students' placement exam schedule</pattern>
+    <pattern>Provide information about the new students placement exam schedule</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
-    <pattern>When and where are the new students' placement exams held</pattern>
+    <pattern>When and where are the new students placement exams held</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
 
 <category>
     <pattern>How do I find the schedule for the placement exam for new students</pattern>
     <template>
-        <srai>How and when is the placement exam Arabic, English, Computer conducted for new students</srai>
+        <srai>How and when is the placement exam Arabic English Computer conducted for new students</srai>
     </template>
 </category>
-
-
-
-
 
 </aiml>

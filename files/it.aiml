@@ -64,11 +64,6 @@
 </category>
 
 <category>
-    <pattern>^ establish ^</pattern>
-    <template><srai>when the it faculty established</srai></template>
-</category>
-
-<category>
     <pattern>^ main ^ IT ^</pattern>
     <template>
         <srai>what is the purpose of it faculty</srai>
@@ -229,7 +224,14 @@
 </category>
 
 <category>
-    <pattern>^ establishment ^ of the IT ^</pattern>
+    <pattern>^ establishment^ ^ of the IT ^</pattern>
+    <template>
+        <srai>^ what ^ is ^ it ^</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ goal^ ^ IT ^</pattern>
     <template>
         <srai>^ what ^ is ^ it ^</srai>
     </template>
@@ -250,21 +252,21 @@
 </category>
 
 <category>
-    <pattern>^ programs offered by the IT ^</pattern>
+    <pattern>^ program^ offered by the IT ^</pattern>
     <template>
         <srai>^ what ^ is ^ it ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ What qualifications do IT ^</pattern>
+    <pattern>^ What qualification^ do IT ^</pattern>
     <template>
         <srai>^ what ^ is ^ it ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ field cover^ ^ IT ^</pattern>
+    <pattern>^ field^ cover^ ^ IT ^</pattern>
     <template>
         <srai>^ what ^ is ^ it ^</srai>
     </template>
@@ -278,42 +280,42 @@
 </category>
 
 <category>
-    <pattern>^ role ^ IT ^</pattern>
+    <pattern>^ role^ ^ IT ^</pattern>
     <template>
         <srai>^ what ^ is ^ it ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ achievements ^ IT ^</pattern>
+    <pattern>^ achievement^ ^ IT ^</pattern>
     <template>
         <srai>^ what ^ is ^ it ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ IT ^ contributes ^</pattern>
+    <pattern>^ IT ^ contribut^ ^</pattern>
     <template>
         <srai>^ what ^ is ^ it ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ significances ^ IT ^</pattern>
+    <pattern>^ significanc^ ^ IT ^</pattern>
     <template>
         <srai>^ what ^ is ^ it ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ opportunities ^ IT ^</pattern>
+    <pattern>^ opportunit^ ^ IT ^</pattern>
     <template>
         <srai>^ what ^ is ^ it ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ collaborations ^ IT ^</pattern>
+    <pattern>^ collaborat^ ^ IT ^</pattern>
     <template>
         <srai>^ what ^ is ^ it ^</srai>
     </template>
@@ -327,7 +329,7 @@
 
 <category>
     <pattern>
-       ^ IT ^ located ^
+       ^ IT located ^
     </pattern>
     <template>
         Between Alhussien Al Bani building and Sport building.
@@ -356,14 +358,21 @@
 </category>
 
 <category>
-    <pattern>^ directions ^ IT ^</pattern>
+    <pattern>^ building ^ IT ^</pattern>
     <template>
         <srai>^ find ^ it ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ located ^ IT ^</pattern>
+    <pattern>^ direction^ ^ IT ^</pattern>
+    <template>
+        <srai>^ find ^ it ^</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ locate^ ^ IT ^</pattern>
     <template>
         <srai>^ find ^ it ^</srai>
     </template>
@@ -391,14 +400,28 @@
 </category>
 
 <category>
-    <pattern>^ guides ^ IT ^</pattern>
+    <pattern>^ Where ^ IT ^ situated</pattern>
     <template>
         <srai>^ find ^ it ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ directions ^ IT ^</pattern>
+    <pattern>^ building ^ IT ^</pattern>
+    <template>
+        <srai>^ find ^ it ^</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ guide^ ^ IT ^</pattern>
+    <template>
+        <srai>^ find ^ it ^</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ direction^ ^ IT ^</pattern>
     <template>
         <srai>^ find ^ it ^</srai>
     </template>
@@ -420,6 +443,8 @@
 
 
 
+
+
 <category>
     <pattern>
        ^ in which building does the it faculty exist ^
@@ -428,23 +453,26 @@
         In Prince Al-Hussein Bin Abdallah II for IT.
     </template>
 </category>
-
 <category>
-    <pattern>^ Which ^ building ^ IT ^</pattern>
+    <pattern>^ building ^ it ^</pattern>
+    <template><srai>^ in which building does the it faculty exist ^</srai></template>
+</category>
+<category>
+    <pattern>^ Which ^ build^ ^ IT ^</pattern>
     <template>
         <srai>in which building does the it faculty exist</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ building ^ for ^ the ^ IT ^</pattern>
+    <pattern>^ build^ ^ for ^ the ^ IT ^</pattern>
     <template>
         <srai>in which building does the it faculty exist</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ name ^ building ^ IT ^</pattern>
+    <pattern>^ name^ ^ build^ ^ IT ^</pattern>
     <template>
         <srai>in which building does the it faculty exist</srai>
     </template>
@@ -458,21 +486,21 @@
 </category>
 
 <category>
-    <pattern>^ specifices ^ building ^ IT </pattern>
+    <pattern>^ specific^ ^ building ^ IT </pattern>
     <template>
         <srai>in which building does the it faculty exist</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ building ^ houses ^ IT ^</pattern>
+    <pattern>^ building ^ house^ ^ IT ^</pattern>
     <template>
         <srai>in which building does the it faculty exist</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ details about the IT ^ building</pattern>
+    <pattern>^ detail^ about the IT ^ building</pattern>
     <template>
         <srai>in which building does the it faculty exist</srai>
     </template>
@@ -493,14 +521,14 @@
 </category>
 
 <category>
-    <pattern>^ Provide directions to the building of the IT department</pattern>
+    <pattern>^ Provide direction^ to the building of the IT department</pattern>
     <template>
         <srai>in which building does the it faculty exist</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ find ^ the IT ^</pattern>
+    <pattern>^ find^ the IT ^</pattern>
     <template>
         <srai>in which building does the it faculty exist</srai>
     </template>
@@ -549,7 +577,7 @@
 <category>
     <pattern>^ contact ^ IT ^</pattern>
     <template>
-        <srai>^ how can i contact with the it ^</srai>
+        <srai>how can i contact with the it</srai>
     </template>
 </category>
 
@@ -589,7 +617,7 @@
 </category>
 
 <category>
-    <pattern>^ communicate ^ IT ^</pattern>
+    <pattern>^ communicat^ ^ IT ^</pattern>
     <template>
         <srai>how can i contact with the it</srai>
     </template>
@@ -657,81 +685,88 @@
 
 <category>
     <pattern>
-        ^ how many floors do the building contain ^
+        ^ how many floor^ do the building contain^ ^
     </pattern>
     <template>
-        3 floors.<break/>
+        3 floors.
         floor 0,
         floor 1,
         floor 2.
     </template>
 </category>
 <category>
-    <pattern>^ floors ^ in ^</pattern>
+    <pattern>^ floor^ ^ in ^</pattern>
     <template>
-        <srai>^ how many floors do the building contain ^</srai>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
     </template>
 </category>
 
 <category>
     <pattern>^ floors in the ^ building</pattern>
     <template>
-        <srai>^ how many floors do the building contain ^</srai>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
     </template>
 </category>
 
 <category>
     <pattern>^ What is the floor count of the building ^</pattern>
     <template>
-        <srai>^ how many floors do the building contain ^</srai>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ building floor ^</pattern>
+    <pattern>^ building floor^ ^</pattern>
     <template>
-        <srai>^ how many floors do the building contain ^</srai>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ building floor^ ^</pattern>
+    <template>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
     </template>
 </category>
 
 <category>
     <pattern>^ levels ^ the ^</pattern>
     <template>
-        <srai>^ how many floors do the building contain ^</srai>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
     </template>
 </category>
 <category>
-    <pattern>^ How many floors are there in the building ^</pattern>
+    <pattern>^How many floors are there in the building?</pattern>
     <template>
-        <srai>^ how many floors do the building contain ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ Tell me about the number of floors in the building ^</pattern>
-    <template>
-        <srai>^ how many floors do the building contain ^</srai>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ What is the floor count of the building ^</pattern>
+    <pattern>^Tell me about the number of floors in the building.</pattern>
     <template>
-        <srai>^ how many floors do the building contain ^</srai>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ Give me information about the building floors ^</pattern>
+    <pattern>^What is the floor count of the building?</pattern>
     <template>
-        <srai>^ how many floors do the building contain ^</srai>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>_ number ^ floors ^ IT ^</pattern>
+    <pattern>^Give me information about the building's floors.</pattern>
     <template>
-        <srai>^ how many floors do the building contain ^</srai>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ floor^ ^ IT ^</pattern>
+    <template>
+        <srai>^ how many floor^ do the building contain^ ^</srai>
     </template>
 </category>
 
@@ -742,21 +777,21 @@
        ^ how many bathrooms are there in the it building ^
     </pattern>
     <template>
-        18 Bathrooms<break/>
-        6 for men<break/>
-        6 for women<break/>
+        18 Bathrooms
+        6 for men
+        6 for women
         6 for employess
     </template>
 </category>
 <category>
-    <pattern>^ many ^ bathrooms ^ IT ^</pattern>
+    <pattern>^ many ^ bathroom^ ^ IT ^</pattern>
     <template>
         <srai>^ how many bathrooms are there in the it building ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>_ number ^ bathrooms ^ building ^</pattern>
+    <pattern>^ number ^ bathroom^ ^ building ^</pattern>
     <template>
         <srai>^ how many bathrooms are there in the it building ^</srai>
     </template>
@@ -790,48 +825,48 @@
         ^ how many worships places are there in the building ^
     </pattern>
     <template>
-        2<break/>
+        2
         1 for men
         1 for women
     </template>
 </category>
 <category>
-    <pattern>_ number ^ worships ^</pattern>
+    <pattern>^ Tell me about the number of worship^ places in the building ^</pattern>
     <template>
         <srai>^ how many worships places are there in the building ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ worships ^ in the building ^</pattern>
+    <pattern>^ worship^ ^ in the building ^</pattern>
     <template>
         <srai>^ how many worships places are there in the building ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ count ^ worships ^ IT ^</pattern>
+    <pattern>^ count ^ worship^ ^ IT ^</pattern>
     <template>
         <srai>^ how many worships places are there in the building ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ how ^ worships ^ it ^</pattern>
+    <pattern>^ how * worship^ ^ it ^</pattern>
     <template>
         <srai>^ how many worships places are there in the building ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ many ^ prayer ^ IT ^</pattern>
+    <pattern>^ many ^ prayer^ ^ IT ^</pattern>
     <template>
         <srai>^ how many worships places are there in the building ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ much worships in it ^</pattern>
+    <pattern>^ much worship^ in it ^</pattern>
     <template>
         <srai>^ how many worships places are there in the building ^</srai>
     </template>
@@ -841,44 +876,44 @@
 
 <category>
     <pattern>
-        ^ how many departments in the IT ^
+        ^ how many department^ in the IT ^
     </pattern>
     <template>
         6 departments
     </template>
 </category>
 <category>
-    <pattern>_ number ^ departments ^ IT ^</pattern>
+    <pattern>^ number^ ^ department^ ^ IT ^</pattern>
     <template>
-        <srai>^ how many departments in the IT ^</srai>
+        <srai>^ how many department^ in the IT ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ details ^ departments ^ IT ^</pattern>
+    <pattern>^ detail^ department^ ^ IT ^</pattern>
     <template>
-        <srai>^ how many departments in the IT ^</srai>
+        <srai>^ how many department^ in the IT ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ count ^ department ^ IT ^</pattern>
+    <pattern>^ count ^ department^ IT ^</pattern>
     <template>
-        <srai>^ how many departments in the IT ^</srai>
+        <srai>^ how many department^ in the IT ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ Give me information about the departments in the IT faculty ^</pattern>
+    <pattern>^Give me information about the departments in the IT faculty.^</pattern>
     <template>
-        <srai>^ how many departments in the IT ^</srai>
+        <srai>^ how many department^ in the IT ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ How many academic departments are there in the IT faculty ^</pattern>
+    <pattern>^How many academic departments are there in the IT faculty?^</pattern>
     <template>
-        <srai>^ how many departments in the IT ^</srai>
+        <srai>^ how many department^ in the IT ^</srai>
     </template>
 </category>
 
@@ -889,58 +924,39 @@
        ^ where can i find the women bathrooms ^
     </pattern>
     <template>
-        In floor0, floor1 and floor2.
+        In floor0 and floor1 and floor2.
     </template>
 </category>
-
 <category>
-    <pattern>^ location of women bathrooms ^</pattern>
+    <pattern>^ location of wom^ bathroom^ ^</pattern>
     <template>
         <srai>^ where can i find the women bathrooms ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ location of woman bathrooms ^</pattern>
+    <pattern>^ floor^ ^ wom^ bathroom^ locate^ ^</pattern>
     <template>
         <srai>^ where can i find the women bathrooms ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ floor ^ women ^ bathrooms ^ located ^</pattern>
-    <template>
-        <srai>^ where can i find the women bathrooms ^</srai>
-    </template>
-</category>
-<category>
-    <pattern>^ floor ^ woman ^ bathrooms ^ located ^</pattern>
-    <template>
-        <srai>^ where can i find the women bathrooms ^</srai>
-    </template>
-</category>
-<category>
-    <pattern>^ details ^ women ^ bathrooms ^ it ^</pattern>
-    <template>
-        <srai>^ where can i find the women bathrooms ^</srai>
-    </template>
-</category>
-<category>
-    <pattern>^ details ^ woman ^ bathrooms ^ it ^</pattern>
+    <pattern>^ detail^ wom^ bathroom^ ^ it ^</pattern>
     <template>
         <srai>^ where can i find the women bathrooms ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ women ^ bathrooms ^ situated ^</pattern>
+    <pattern>^ wom^ bathroom^ ^ situat^ ^</pattern>
     <template>
         <srai>^ where can i find the women bathrooms ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>_ women ^ bathrooms ^ it ^</pattern>
+    <pattern>^ wom^ ^ bathr^ ^ it ^</pattern>
     <template>
         <srai>^ where can i find the women bathrooms ^</srai>
     </template>
@@ -953,39 +969,39 @@
        ^ where can i find the men bathrooms ^
     </pattern>
     <template>
-        In floor0, floor1 and floor2.
+        In floor0 and floor1 and floor2.
     </template>
 </category>
 <category>
-    <pattern>^ location ^ men ^ bathrooms ^</pattern>
+    <pattern>^ location of m^ bathroom^ ^</pattern>
     <template>
         <srai> ^ where can i find the men bathrooms ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ floor ^ men ^ bathroom ^ located ^</pattern>
+    <pattern>^ floor^ ^ m^ bathroom^ locate^ ^</pattern>
     <template>
         <srai>^ where can i find the men bathrooms ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ details ^ men ^ bathrooms ^ it ^</pattern>
+    <pattern>^ detail^ m^ bathroom^ ^ it ^</pattern>
     <template>
         <srai>^ where can i find the men bathrooms ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ men ^ bathrooms ^ situated ^</pattern>
+    <pattern>^ m^ bathroom^ ^ situat^ ^</pattern>
     <template>
         <srai>^ where can i find the men bathrooms ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>_ men ^ bathrooms ^ it ^</pattern>
+    <pattern>^ m^ ^ bathr^ ^ it ^</pattern>
     <template>
         <srai>^ where can i find the men bathrooms ^</srai>
     </template>
@@ -998,53 +1014,53 @@
 
 <category>
     <pattern>
-       ^ where can i find the women worship ^
+       ^ where can i find the wom^ worship^ ^
     </pattern>
     <template>
-        In floor No.2 .
+        In floor 2.
     </template>
 </category>
 <category>
-    <pattern>^ women ^ worships ^</pattern>
+    <pattern>^ wom^ ^ worship^ ^</pattern>
     <template>
-        <srai>^ where can i find the women worship ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ floor ^ women ^ worship ^ located ^</pattern>
-    <template>
-        <srai>^ where can i find the women worship ^</srai>
+        <srai>^ where can i find the wom^ worship^ ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ location ^ women ^ worship ^</pattern>
+    <pattern>^ floor wom^ ^ worship^ ^ locat^ ^</pattern>
     <template>
-        <srai>^ where can i find the women worship ^</srai>
+        <srai>^ where can i find the wom^ worship^ ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ information ^ women ^ worship ^</pattern>
+    <pattern>^ location ^ wom^ ^ worship^ ^</pattern>
     <template>
-        <srai>^ where can i find the women worship^ ^</srai>
+        <srai>^ where can i find the wom^ worship^ ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ details ^ women ^ worship ^</pattern>
+    <pattern>^ info^ ^ wom^ ^ worship^ ^</pattern>
     <template>
-        <srai>^ where can i find the women worship^ ^</srai>
+        <srai>^ where can i find the wom^ worship^ ^</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ detail^ ^ wom^ ^ worship^ ^</pattern>
+    <template>
+        <srai>^ where can i find the wom^ worship^ ^</srai>
     </template>
 </category>
 
 <category>
     <pattern>
-        ^ women ^ prayer
+        ^ wom^ ^ pray^
     </pattern>
     <template>
-        <srai>^ where can i find the women worship^ ^</srai>
+        <srai>^ where can i find the wom^ worship^ ^</srai>
     </template>
 </category>
 
@@ -1052,53 +1068,53 @@
 
 <category>
     <pattern>
-       ^ where can i find the men worship ^
+       ^ where can i find the m^ worship^ ^
     </pattern>
     <template>
-        In floor No.1 .
+        In floor 1.
     </template>
 </category>
 <category>
-    <pattern>^ men ^ worship ^</pattern>
+    <pattern>^ m^ ^ worship^ ^</pattern>
     <template>
-        <srai>^ where can i find the men worship ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ floor ^ men ^ worship ^ locate ^</pattern>
-    <template>
-        <srai>^ where can i find the men worship ^</srai>
+        <srai>^ where can i find the m^ worship^ ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ location ^ men ^ worship ^</pattern>
+    <pattern>^ floor m^ ^ worship^ ^ locat^ ^</pattern>
     <template>
-        <srai>^ where can i find the men worship ^</srai>
+        <srai>^ where can i find the m^ worship^ ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ information ^ men ^ worship ^</pattern>
+    <pattern>^ location ^ m^ ^ worship^ ^</pattern>
     <template>
-        <srai>^ where can i find the men worship ^</srai>
+        <srai>^ where can i find the m^ worship^ ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ details ^ men ^ worship ^</pattern>
+    <pattern>^ info^ ^ m^ ^ worship^ ^</pattern>
     <template>
-        <srai>^ where can i find the men worship ^</srai>
+        <srai>^ where can i find the m^ worship^ ^</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ detail^ ^ m^ ^ worship^ ^</pattern>
+    <template>
+        <srai>^ where can i find the m^ worship^ ^</srai>
     </template>
 </category>
 
 <category>
     <pattern>
-        ^ men ^ prayer
+        ^ m^ ^ pray^
     </pattern>
     <template>
-        <srai>^ where can i find the men worship ^</srai>
+        <srai>^ where can i find the m^ worship^ ^</srai>
     </template>
 </category>
 
@@ -1109,45 +1125,39 @@
         ^ where can i find the security office ^
     </pattern>
     <template>
-        In floor No.2 .
+        In floor 2.
     </template>
 </category>
 <category>
-    <pattern>^ guide ^ security ^ office ^</pattern>
-    <template>
-        <srai>^ where can i find the security office ^</srai>
-    </template>
-</category>
-<category>
-    <pattern>^ where ^ security ^</pattern>
+    <pattern>^ guide ^ secur^ ^ office^ ^</pattern>
     <template>
         <srai>^ where can i find the security office ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ floor ^ security ^</pattern>
+    <pattern>^ floor^ ^ secur^ ^</pattern>
     <template>
         <srai>^ where can i find the security office ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ location ^ security ^ office ^</pattern>
+    <pattern>^ location ^ secur^ ^office^ ^</pattern>
     <template>
         <srai>^ where can i find the security office ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ information ^ security ^ office ^</pattern>
+    <pattern>^ info^ ^ secur^ ^ office^ ^</pattern>
     <template>
         <srai>^ where can i find the security office ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ details ^ security ^</pattern>
+    <pattern>^ detail^ ^ secur^ ^</pattern>
     <template>
         <srai>^ where can i find the security office ^</srai>
     </template>
@@ -1161,40 +1171,40 @@
         ^ where is or in which floor the deanship of the college exist ^
     </pattern>
     <template>
-        In floor No.2 .
+        In floor 2.
     </template>
 </category>
 
 <category>
-    <pattern>^ floor ^ deanship ^</pattern>
+    <pattern>^ floor ^ dean^ ^ college ^</pattern>
     <template>
         <srai>^ where is or in which floor the deanship of the college exist ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ where ^ deanship ^</pattern>
+    <pattern>^ deanship ^</pattern>
     <template>
         <srai>^ where is or in which floor the deanship of the college exist ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ location ^ deanship ^</pattern>
+    <pattern>^ location ^ deanship ^ college ^</pattern>
     <template>
         <srai>^ where is or in which floor the deanship of the college exist ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ information ^ deanship ^</pattern>
+    <pattern>^ info^ ^ deanship ^</pattern>
     <template>
         <srai>^ where is or in which floor the deanship of the college exist ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ details ^ deanship ^</pattern>
+    <pattern>^ detail^ ^ deanship ^ college ^</pattern>
     <template>
         <srai>^ where is or in which floor the deanship of the college exist ^</srai>
     </template>
@@ -1210,14 +1220,21 @@
     </template>
 </category>
 <category>
-    <pattern>_ number ^ halls ^ IT ^</pattern>
+    <pattern>^ number^ ^ ^hall^ ^ IT ^</pattern>
     <template>
         <srai>^ how many halls in the it building ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ IT ^ hall ^</pattern>
+    <pattern>^ IT ^ ^ hall^ ^</pattern>
+    <template>
+        <srai>^ how many halls in the it building ^</srai>
+    </template>
+</category>
+
+<category>
+    <pattern>^ number ^ hall^ ^</pattern>
     <template>
         <srai>^ how many halls in the it building ^</srai>
     </template>
@@ -1230,6 +1247,13 @@
     </template>
 </category>
 
+<category>
+    <pattern>^ number of hall^ ^ IT ^</pattern>
+    <template>
+        <srai>^ how many halls in the it building ^</srai>
+    </template>
+</category>
+
 
 
 <category>
@@ -1237,12 +1261,11 @@
        ^ where is the hall located ^
     </pattern>
     <template>
-        <delay>1</delay>
-        In floor No.1 .
+        In floor 1.
     </template>
 </category>
 <category>
-    <pattern>_ find ^ hall ^</pattern>
+    <pattern>^ find ^ hall ^</pattern>
     <template>
         <srai>^ where is the hall located ^</srai>
     </template>
@@ -1287,21 +1310,21 @@
 </category>
 
 <category>
-    <pattern>^ hall ^ used ^</pattern>
+    <pattern>^ hall ^ use^ ^</pattern>
     <template>
         <srai>^ the hall exist for what ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ use ^ hall ^</pattern>
+    <pattern>^ use^ ^ hall ^</pattern>
     <template>
         <srai>^ the hall exist for what ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ events ^ hall ^</pattern>
+    <pattern>^ event^ ^ hall ^</pattern>
     <template>
         <srai>^ the hall exist for what ^</srai>
     </template>
@@ -1315,35 +1338,35 @@
 </category>
 
 <category>
-    <pattern>^ activity ^ hall ^</pattern>
+    <pattern>^ activi^ ^ hall ^</pattern>
     <template>
         <srai>^ the hall exist for what ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ function ^ hall ^</pattern>
+    <pattern>^ function^ ^ hall ^</pattern>
     <template>
         <srai>^ the hall exist for what ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ host ^ hall ^</pattern>
+    <pattern>^ host^ ^ hall ^</pattern>
     <template>
         <srai>^ the hall exist for what ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ reasons ^ hall ^</pattern>
+    <pattern>^ reason^ ^ hall ^</pattern>
     <template>
         <srai>^ the hall exist for what ^</srai>
     </template>
 </category>
 
 <category>
-    <pattern>^ works ^ hall ^</pattern>
+    <pattern>^ work^ ^ hall ^</pattern>
     <template>
         <srai>^ the hall exist for what ^</srai>
     </template>
@@ -1355,456 +1378,12 @@
     <pattern>
         ^ what is the capacity of the hall ^</pattern>
     <template>
+        <srai>
             Around 300 hundred person.
-    </template>
-</category>
-<category>
-    <pattern>
-        _ hall ^ capacity ^</pattern>
-    <template>
-         Around 300 hundred person.
-    </template>
-</category>
-<category>
-    <pattern>
-        _ capacity ^ hall ^</pattern>
-    <template>
-         Around 300 hundred person.
+        </srai>
     </template>
 </category>
 
 
 
-<category>
-    <pattern>
-        ^ how many classrooms in the building
-    </pattern>
-    <template></template>
-</category>
-
-<category>
-    <pattern>
-        ^ how many labs in the it building ^
-    </pattern>
-    <template></template>
-</category>
-
-<category>
-    <pattern>
-        ^ how many offices in the it building ^
-    </pattern>
-    <template></template>
-</category>
-
-
-
-
-
-<!-- questions about the departments -->
-
-<category>
-    <pattern>
-        ^ what is the departments in the it faculity ^
-    </pattern>
-    <template>
-        <delay>1</delay>
-        <random>
-            <li>CS , CIS , SWE , BIT , AI , CSY</li>
-            <li>Computer Sciene, Computer Information System, Software Engieneering, Bussniess Information Technology,
-            Artifical Inteliegnce, Cyber Security</li>
-        </random>
-    </template>
-</category>
-
-<category>
-    <pattern>
-        ^ name ^ it ^ departments ^
-    </pattern>
-    <template>
-      <srai>
-          ^ what is the departments in the it faculity ^
-      </srai>
-    </template>
-</category>
-
-<category>
-    <pattern>
-        ^ mention ^ it ^ departments ^
-    </pattern>
-    <template>
-      <srai>
-          ^ what is the departments in the it faculity ^
-      </srai>
-    </template>
-</category>
-
-<category>
-    <pattern>
-        ^ list ^ it ^ departments ^
-    </pattern>
-    <template>
-      <srai>
-          ^ what is the departments in the it faculity ^
-      </srai>
-    </template>
-</category>
-
-<category>
-    <pattern>
-        ^ say ^ it ^ departments ^
-    </pattern>
-    <template>
-      <srai>
-          ^ what is the departments in the it faculity ^
-      </srai>
-    </template>
-</category>
-
-<category>
-    <pattern>
-        ^ it ^ departments ^
-    </pattern>
-    <template>
-      <srai>
-          ^ what is the departments in the it faculity ^
-      </srai>
-    </template>
-</category>
-
-
-
-
-<category>
-    <pattern>
-        ^ what is the difference between ^ department ^
-    </pattern>
-    <template>
-        All departmetns shared 70-80% of coures, and the difference is each department focus on it's field after completion for common courses.
-    </template>
-</category>
-
-<category>
-    <pattern>^ Explain ^ distinctions ^ between ^ department ^</pattern>
-    <template>
-        <srai>^ what is the difference between * department and * department ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ variations ^ between ^ departments ^</pattern>
-    <template>
-        <srai>^ what is the difference between * department and * department ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ difference ^ between ^ departments ^</pattern>
-    <template>
-        <srai>^ what is the difference between * department and * department ^</srai>
-    </template>
-</category>
-
-
-<category>
-    <pattern>^ who is the president of * ^</pattern>
-    <template>
-        <think><set name="department"><star index="2"/></set></think>
-        <condition name="department">
-            <li value="cs">The president of <get name="department"/> Department is Dr.Bashar Alkhawaldeh.</li>
-            <li value="cis">The president of <get name="department"/> Department is Dr.Subhyeh Alsalhi.</li>
-            <li value="swe">The president of <get name="department"/> Department is Dr.Bashar Almkhadmeh.</li>
-            <li value="cys">The president of <get name="department"/> Department is Dr.Ibrahim Oqaily.</li>
-            <li value="bit">The president of <get name="department"/> Department is Dr.Zahir.</li>
-            <li value="ai">The president of <get name="department"/> Department is Dr.zahir.</li>
-        </condition>
-    </template>
-</category>
-
-<category>
-    <pattern>who is the president of * * ^</pattern>
-    <template>
-        <think><set name="department"><star index="1"/> <star index="2"/></set></think>
-        <condition name="department">
-            <li value="computer science">The president of <get name="department"/> Department is Dr.Bashar Alkhawaldeh.</li>
-            <li value="computer information">The president of <get name="department"/> Department is Dr.Subhyeh Alsalhi.</li>
-            <li value="software engieneering">The president of <get name="department"/> Department is Dr.Bashar Almkhadmeh.</li>
-            <li value="cyber security">The president of <get name="department"/> Department is Dr.Ibrahim Oqaily.</li>
-            <li value="bussnies information">The president of <get name="department"/> Department is Dr.Zahir.</li>
-            <li value="artifical inteligence">The president of <get name="department"/> Department is Dr.zahir.</li>
-        </condition>
-    </template>
-</category>
-
-
-
-
-<category>
-    <pattern>
-        ^ who is the head of * ^
-    </pattern>
-    <template>
-         <think><set name="department"><star index="2"/></set></think>
-        <condition name="department">
-            <li value="cs">The head of <get name="department"/> Department is Dr.Bashar Alkhawaldeh.</li>
-            <li value="cis">The head of <get name="department"/> Department is Dr.Subhyeh Alsalhi.</li>
-            <li value="swe">The head of <get name="department"/> Department is Dr.Bashar Almkhadmeh.</li>
-            <li value="cys">The head of <get name="department"/> Department is Dr.Ibrahim Oqaily.</li>
-            <li value="bit">The head of <get name="department"/> Department is Dr.Zahir.</li>
-            <li value="ai">The head of <get name="department"/> Department is Dr.zahir.</li>
-        </condition>
-    </template>
-</category>
-
-<category>
-    <pattern>
-        who is the head of * * ^
-    </pattern>
-    <template>
-         <think><set name="department"><star index="1"/> <star index="2"/></set></think>
-        <condition name="department">
-            <li value="computer science">The head of <get name="department"/> Department is Dr.Bashar Alkhawaldeh.</li>
-            <li value="computer information">The head of <get name="department"/> Department is Dr.Subhyeh Alsalhi.</li>
-            <li value="software engineering">The head of <get name="department"/> Department is Dr.Bashar Almkhadmeh.</li>
-            <li value="cyber security">The head of <get name="department"/> Department is Dr.Ibrahim Oqaily.</li>
-            <li value="bussnies information">The head of <get name="department"/> Department is Dr.Zahir.</li>
-            <li value="artifical intelligence">The head of <get name="department"/> Department is Dr.zahir.</li>
-        </condition>
-    </template>
-</category>
-
-
-<category>
-    <pattern>
-        ^ in which floor does the * ^ located ^
-    </pattern>
-    <template>
-        <think>
-            <set name="department"><star index="2"/></set>
-        </think>
-        <condition name="department">
-            <li value="cs"><get name="department"/> Department is on floor 0.</li>
-            <li value="cis"><get name="department"/> Department is on floor 1.</li>
-            <li value="swe"><get name="department"/> Department is on floor 2.</li>
-            <li value="cys"><get name="department"/> Department is on floor 1.</li>
-            <li value="bit"><get name="department"/> Department is on floor 0.</li>
-            <li value="ai"><get name="department"/> Department is on floor 2.</li>
-        </condition>
-    </template>
-</category>
-
-<category>
-    <pattern>
-        ^ floor ^ the * * ^
-    </pattern>
-    <template>
-        <think>
-            <set name="department"><star index="3"/> <star index="4"/></set>
-        </think>
-        <condition name="department">
-            <li value="computer science"><get name="department"/> Department is on floor 0.</li>
-            <li value="computer information"><get name="department"/> Department is on floor 1.</li>
-            <li value="software engineering"><get name="department"/> Department is on floor 2.</li>
-            <li value="cyber security"><get name="department"/> Department is on floor 1.</li>
-            <li value="bussnies information"><get name="department"/> Department is on floor 0.</li>
-            <li value="artifical intelligence"><get name="department"/> Department is on floor 2.</li>
-        </condition>
-    </template>
-</category>
-
-
-<category>
-    <pattern>
-        ^ courses ^ of * ^
-    </pattern>
-    <template>
-        <think>
-            <set name="department"><star index="3"/></set>
-        </think>
-        <condition name="department">
-            <li value="cs"><get name="department"/> courses are :<break/>
-            Theory , Parallel, Architecture, Calculas 2, Physics 1 + 2 + lab.</li>
-            <li value="cis"><get name="department"/> courses are :<break/>
-            Web Advance, DB Advance, ITS, MIS, MicroEconomic 1.</li>
-            <li value="swe"><get name="department"/> courses are :<break/>
-            Maintenance, Testing, Documentation, Design, Quality, Requirment, VP in C#, Java Advance.</li>
-            <li value="bit"><get name="department"/> courses are :<break/>
-            Digital Marketing, Electronic Services, Decision Support System, Knowledge Mangement, Buisness Intelligence, Project Support System.</li>
-            <li value="cys"><get name="department"/> courses are :<break/>
-            Python, Cloud Security, Security from hacking, Cyber Security 1, Ethical Hacking, Hiding informations, Network Monitoring.</li>
-            <li value="ai"><get name="department"/> courses are :<break/>
-            Intro To Data Science, Algorithm analysis and design, Data Engieneering, Big Data, Robots Software, Image Processing, Smart protables robots, Machine Learning, Neural networks, NLP, Introduction to AI.</li>
-        </condition>are
-    </template>
-</category>
-
-<category>
-    <pattern>
-        ^ courses of * * ^
-    </pattern>
-    <template>
-        <think>
-            <set name="department"><star index="2"/> <star index="3"/></set>
-        </think>
-        <condition name="department">
-            <li value="computer science"><get name="department"/> courses are :<break/>
-            Theory , Parallel, Architecture, Calculas 2, Physics 1 + 2 + lab.</li>
-            <li value="computer information"><get name="department"/> courses are :<break/>
-            Web Advance, DB Advance, ITS, MIS, MicroEconomic 1.</li>
-            <li value="software engineering"><get name="department"/> courses are :<break/>
-            Maintenance, Testing, Documentation, Design, Quality, Requirment, VP in C#, Java Advance.</li>
-            <li value="bussnies information"><get name="department"/> courses are :<break/>
-            Digital Marketing, Electronic Services, Decision Support System, Knowledge Mangement, Buisness Intelligence, Project Support System.</li>
-            <li value="cyber security"><get name="department"/> courses are :<break/>
-            Python, Cloud Security, Security from hacking, Cyber Security 1, Ethical Hacking, Hiding informations, Network Monitoring.</li>
-            <li value="artifical intelligence"><get name="department"/> courses are :<break/>
-            Intro To Data Science, Algorithm analysis and design, Data Engieneering, Big Data, Robots Software, Image Processing, Smart protables robots, Machine Learning, Neural networks, NLP, Introduction to AI.</li>
-        </condition>are
-    </template>
-</category>
-
-
-<category>
-    <pattern>
-        ^ hours * ^
-    </pattern>
-    <template>
-        <think>
-            <set name="department"><star index="2"/></set>
-        </think>
-        <condition name="department">
-            <li value="cs">132 hours.</li>
-            <li value="cis">132 hours</li>
-            <li value="swe">132 hours.</li>
-            <li value="cys">132 hours.</li>
-            <li value="bit">132 hours.</li>
-            <li value="ai">132 hours.</li>
-            <li>I have no idea</li>
-        </condition>
-    </template>
-</category>
-
-<category>
-    <pattern>
-        how many hours * * ^
-    </pattern>
-    <template>
-        <think>
-            <set name="department"><star index="1"/> <star index="2"/></set>
-        </think>
-        <condition name="department">
-            <li value="computer Science">132 hours.</li>
-            <li value="computer information">132 hours</li>
-            <li value="swoftware engineering">132 hours.</li>
-            <li value="cyber security">132 hours.</li>
-            <li value="bussnies information">132 hours.</li>
-            <li value="artifical intelligence">132 hours.</li>
-            <li>I have no idea</li>
-        </condition>
-    </template>
-</category>
-
-
-
-<category>
-    <pattern>
-        ^ who is dr * * ^
-    </pattern>
-    <template>
-        <think>
-            <set name="doctor"><star index="2"/> <star index="3"/></set>
-        </think>
-        <condition name="doctor">
-            <li value="bashar alkhwaldeh">he is the head of computer science</li>
-            <li value="mohammad albsoul">he is a professor in cs department interested in networks.</li>
-            <li value="sahar Aledwan">she is a professor in cs department interested in Algorithms.</li>
-            <li value="alaa Eddin">he is a doctor in cs department interested in data structures.</li>
-            <li value="ebaa fayoumi">she is a professor in cs department interested in AI.</li>
-            <li value="sari awad">he is a doctor in cs department interested in Logic.</li>
-            <li value="nabhan hamadneh">he is a doctor in cs department interested in mutlimedia and simulation.</li>
-        </condition>
-    </template>
-</category>
-
-<category>
-    <pattern>
-        what courses do dr * * teach
-    </pattern>
-    <template>
-        <think>
-            <set name="doctor"><star index="2"/> <star index="3"/></set>
-        </think>
-        <condition name="doctor">
-            <li value="bashar alkhwaldeh">C++, Logic, ORG</li>
-            <li value="mohammad albsoul">Network</li>
-            <li value="sahar Aledwan">Algorithm, OS</li>
-            <li value="alaa Eddin">Data Structure</li>
-            <li value="ebaa fayoumi">Theory, AI</li>
-            <li value="sari awad">Logic</li>
-            <li value="nabhan hamadneh">Multimedia, Simulation, Data Structures</li>
-        </condition>
-    </template>
-</category>
-
-
-<category>
-    <pattern>what is the office number of dr * *</pattern>
-    <template></template>
-</category>
-
-<category>
-    <pattern>where can i find dr * * office</pattern>
-    <template></template>
-</category>
-
-
-<category>
-    <pattern>
-        how can i contact dr * *
-    </pattern>
-    <template></template>
-</category>
-
-
-<category>
-    <pattern>give me dr * * email</pattern>
-    <template></template>
-</category>
-
-
-<category>
-    <pattern>
-        what is the * course
-    </pattern>
-    <template>
-        
-    </template>
-</category>
-
-<category>
-    <pattern>who teach * course</pattern>
-    <template></template>
-</category>
-
-
-<category>
-    <pattern>what is the number of * course</pattern>
-    <template></template>
-</category>
-
-
-<category>
-    <pattern>how many hours do the * course has</pattern>
-    <template></template>
-</category>
-
-<category>
-    <pattern>>what is the prerequesite of the * course</pattern>
-    <template></template>
-</category>
-
-
-<category>
-    <pattern>to which department does the * course belong/related to</pattern>
-    <template></template>
-</category>
 </aiml>
