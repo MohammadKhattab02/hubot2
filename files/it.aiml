@@ -6,9 +6,37 @@
     
     <!--  questions about it in general  -->
 	<category>
-	    <pattern>
-	       ^ what ^ is ^ it ^
-	    </pattern>
+	    <pattern>what is it faculity</pattern>
+	    <template>
+	        Prince Al Hussein Bin Abdullah II College of Information Technology was established in 2001.
+            The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.
+	    </template>
+    </category>
+	<category>
+	    <pattern>can you please tell me what is it faculity</pattern>
+	    <template>
+	        Prince Al Hussein Bin Abdullah II College of Information Technology was established in 2001.
+            The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.
+	    </template>
+    </category>
+	<category>
+	    <pattern>could you please tell me what is it faculity</pattern>
 	    <template>
 	        Prince Al Hussein Bin Abdullah II College of Information Technology was established in 2001.
             The college aims to provide the local and regional labor markets with highly qualified graduates 
@@ -23,11 +51,8 @@
 	    </template>
     </category>
     <category>
-        <pattern>
-            ^ what is the purpose of it faculty ^
-        </pattern>
-        <template>
-            The college aims to provide the local and regional labor markets with highly qualified graduates 
+        <pattern>what is the purpose of it faculty</pattern>
+        <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
             in many fields of information technology, 
             including analysis, 
             design and application of computer systems, 
@@ -35,648 +60,1087 @@
             multimedia design, artificial intelligence, 
             information processing and management, 
             computer networks, information security, 
-            cybersecurity, data science and other fields.
-        </template>
+            cybersecurity, data science and other fields.</template>
     </category>
     <category>
-        <pattern>^ when the it faculty established ^</pattern>
+        <pattern>tell me what is the purpose of it faculty</pattern>
+        <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+    </category>
+    <category>
+        <pattern>when the it faculty established</pattern>
         <template>Prince Al Hussein Bin Abdullah II College of Information Technology was established in 2001.</template>
     </category>
     <category>
-    <pattern>^ focus ^ IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ Why ^ IT created ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ year ^ IT ^ established ^</pattern>
-    <template>
-        <srai>when the it faculty established</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ main ^ IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ How ^ IT ^ contribute ^ job ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ focus ^ IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ missions ^ IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ fields ^ IT ^ cover ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ How ^ IT ^ established ^</pattern>
-    <template>
-        <srai>when the it faculty established</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ Why ^ choose the IT ^ for ^ studies ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ opportunities ^ IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ significance ^ IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ goals ^ IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ In which areas does the IT faculty excel ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ Can you provide details about the IT faculty foundation ^</pattern>
-    <template>
-        <srai>when the it faculty established</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ What distinguishes the IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ How has the IT faculty contributed to the tech industry ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ Can you elaborate on the objectives of the IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ Tell me about the role of the IT faculty in education ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ How does the IT ^ support students in their career paths ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ Explain the impact of the IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ What opportunities does the IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ IT ^ prepare^ ^ students ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ detail^ ^ IT ^</pattern>
-    <template>
-        <srai>when the it faculty established</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ impact has the IT ^</pattern>
-    <template>
-        <srai>what is the purpose of it faculty</srai>
-    </template>
-</category>
-<category>
-    <pattern>^ mission^ ^ of the IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ establishment^ ^ of the IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
+        <pattern>can you tell me when the it faculty established</pattern>
+        <template>Prince Al Hussein Bin Abdullah II College of Information Technology was established in 2001.</template>
+    </category>
+    <category>
+        <pattern>could you please tell me when the it faculty established</pattern>
+        <template>Prince Al Hussein Bin Abdullah II College of Information Technology was established in 2001.</template>
+    </category>
+
+<category>
+    <pattern>why IT created</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>could you tell me why IT created</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>please tell me why IT created</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>which year IT established</pattern>
+    <template>Prince Al Hussein Bin Abdullah II College of Information Technology was established in 2001.</template>
+</category>
+
+<category>
+    <pattern>what is the main of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>How IT contribute job</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>missions of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what is the missions of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
 <category>
-    <pattern>^ goal^ ^ IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
+    <pattern>fields IT cover</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what fields IT cover</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>How IT established</pattern>
+    <template>Prince Al Hussein Bin Abdullah II College of Information Technology was established in 2001.</template>
+</category>
+
+<category>
+    <pattern>Why to choose the IT for study</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>opportunities of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what are the opportunities of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>what is the significance of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>goals of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what are the goals of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>the goals IT offered</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>areas of the IT faculty</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>What distinguishes the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>IT faculty contributions</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what are the IT faculty contributions</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>objectives of the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what are the objectives of the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>role of the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what is the role of the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what is the role of the IT faculity</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>How does the IT support students in their career paths</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>How IT support students in their career paths</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>How IT support students in their careers</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what ways IT provide students in their careers</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what ways IT provide students in their careers</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>explain impact of the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what is the impact of the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what is the impact of the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>impacts of the IT faculity</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>opportunities IT provides</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>how IT prepare students</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>how does the IT prepare students</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>how does the IT prepare students for</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>details about IT</pattern>
+    <template>It was established in 2001, The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>provide details about IT facuilty</pattern>
+    <template>It was established in 2001, The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>give me details about IT facuilty</pattern>
+    <template>It was established in 2001, The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>what impact has the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what is the mission of the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>establishment of the IT</pattern>
+    <template>it was established in 2001</template>
+</category>
+
+<category>
+    <pattern>goal of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>which year IT was established</pattern>
+    <template>It was established in 2001</template>
+</category>
+
+<category>
+    <pattern>focus of the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what is the focus of the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what IT focus on</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>programs offered by the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what are the programs offered by the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>provide information about the programs offered by the IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>What qualifications do IT has</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>qualifications of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>field that IT cover</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>courses IT offered</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>major role of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>achievement of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what are the achievements of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what are the achievements of IT faculity</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>IT contributions</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what are the IT faculity contributions</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>significances of IT faculity</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>opportunity that IT offer</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>collaboraions of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+<category>
+    <pattern>what are the collaboraions of IT</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+<category>
+    <pattern>what are the collaboraions of IT faculity</pattern>
+    <template>The college aims to provide the local and regional labor markets with highly qualified graduates 
+            in many fields of information technology, 
+            including analysis, 
+            design and application of computer systems, 
+            software development, software quality control,
+            multimedia design, artificial intelligence, 
+            information processing and management, 
+            computer networks, information security, 
+            cybersecurity, data science and other fields.</template>
+</category>
+
+
+
+
+
+
+
+<category>
+    <pattern>IT location</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
+</category>
+<category>
+    <pattern>how can i find it faculity</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
-
-<category>
-    <pattern>^ year ^ IT ^ established ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ focus ^ of the IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ program^ offered by the IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ What qualification^ do IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ field^ cover^ ^ IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ information technology ^ courses ^ offered</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ role^ ^ IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ achievement^ ^ IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ IT ^ contribut^ ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ significanc^ ^ IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ opportunit^ ^ IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ collaborat^ ^ IT ^</pattern>
-    <template>
-        <srai>^ what ^ is ^ it ^</srai>
-    </template>
-</category>
-
-
-
-
-
-
-
-<category>
-    <pattern>
-       ^ IT located ^
-    </pattern>
-    <template>
-        Between Alhussien Al Bani building and Sport building.
-    </template>
-</category>
-<category>
-    <pattern>
-        ^ find ^ it ^
-    </pattern>
-    <template>
-        Between Alhussien Al Bani building and Sport building.
-    </template>
-</category>
-<category>
-    <pattern>^ IT ^ located</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ location ^ IT </pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ building ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
-</category>
-
 <category>
-    <pattern>^ direction^ ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>where is the IT located</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
 <category>
-    <pattern>^ locate^ ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>provide me with the location of IT</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
 <category>
-    <pattern>^ address ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>where is the IT building located</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
 <category>
-    <pattern>^ map ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>direction to the IT faculity</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
-
 <category>
-    <pattern>^ location ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>direction to the IT building</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
 <category>
-    <pattern>^ Where ^ IT ^ situated</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>where is the IT</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
 <category>
-    <pattern>^ building ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>what is the address of IT</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
 <category>
-    <pattern>^ guide^ ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>map me to the IT</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
 <category>
-    <pattern>^ direction^ ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>location of IT building</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
 <category>
-    <pattern>^ nearest ^ to ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>Where IT situated</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
 <category>
-    <pattern>^ map ^ locate ^ IT ^</pattern>
-    <template>
-        <srai>^ find ^ it ^</srai>
-    </template>
+    <pattern>where is the building of IT faculity</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
-
-
 
-
-
 <category>
-    <pattern>
-       ^ in which building does the it faculty exist ^
-    </pattern>
-    <template>
-        In Prince Al-Hussein Bin Abdallah II for IT.
-    </template>
+    <pattern>guide me to IT</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 <category>
-    <pattern>^ building ^ it ^</pattern>
-    <template><srai>^ in which building does the it faculty exist ^</srai></template>
+    <pattern>guide me to IT building</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 <category>
-    <pattern>^ Which ^ build^ ^ IT ^</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>guide me to IT faculity</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
 <category>
-    <pattern>^ build^ ^ for ^ the ^ IT ^</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>give me directions to IT</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
-
 <category>
-    <pattern>^ name^ ^ build^ ^ IT ^</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>what is the nearest building to IT</pattern>
+    <template>Between Alhussien Al Bani building and Sport building.
+        It is better to search in the campus map in the slide menu.</template>
 </category>
 
-<category>
-    <pattern>^ location of the IT ^</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
-</category>
 
-<category>
-    <pattern>^ specific^ ^ building ^ IT </pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
-</category>
 
-<category>
-    <pattern>^ building ^ house^ ^ IT ^</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
-</category>
 
 <category>
-    <pattern>^ detail^ about the IT ^ building</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>In which building does the IT faculty exist</pattern>
+    <template>In Prince Al-Hussein Bin Abdallah II for IT.</template>
 </category>
-
 <category>
-    <pattern>^ name ^ building ^ IT ^</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>name the building of the IT faculty</pattern>
+    <template>In Prince Al-Hussein Bin Abdallah II for IT.</template>
 </category>
-
 <category>
-    <pattern>^ guide ^ IT ^</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>what is the name of the IT faculty</pattern>
+    <template>In Prince Al-Hussein Bin Abdallah II for IT.</template>
 </category>
-
 <category>
-    <pattern>^ Provide direction^ to the building of the IT department</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>what is the name of the IT building</pattern>
+    <template>In Prince Al-Hussein Bin Abdallah II for IT.</template>
 </category>
-
 <category>
-    <pattern>^ find^ the IT ^</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>name of the IT building</pattern>
+    <template>In Prince Al-Hussein Bin Abdallah II for IT.</template>
 </category>
-
 <category>
-    <pattern>^ Give me information about the building of the IT faculty</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>name of the IT faculity</pattern>
+    <template>In Prince Al-Hussein Bin Abdallah II for IT.</template>
 </category>
 
-<category>
-    <pattern>^ What is the building location for the IT department</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
-</category>
 
 <category>
-    <pattern>^ Is there a specific building for the IT faculty</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>Is there a specific building for the IT faculty</pattern>
+    <template>In Prince Al-Hussein Bin Abdallah II for IT.</template>
 </category>
 
 <category>
-    <pattern>^ Tell me about the IT ^</pattern>
-    <template>
-        <srai>in which building does the it faculty exist</srai>
-    </template>
+    <pattern>how can i contact with the IT faculity</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
-
-
 <category>
-    <pattern>
-        ^ how can i contact with the it ^
-    </pattern>
-    <template>
-        <button>
-            <text>IT faculty contact</text>
-            <url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url>
-        </button>
-    </template>
+    <pattern>how can i contact with the IT department</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 <category>
-    <pattern>^ contact ^ IT ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>contact with the IT</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
-
 <category>
-    <pattern>^ contact^ ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>how can i reach to IT departmen</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ reach ^ IT ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>what are the contact options of IT</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ contact^ IT ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>Tell me about the contact options for the IT faculty</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ Tell me about the contact options for the IT faculty ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>Provide information on contacting the IT</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ Provide information on contacting the IT department ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>how can i communicate with IT</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ communicat^ ^ IT ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>Give me the ways to contact the IT faculity</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ Give me the ways to contact the IT department ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>What are the contact methods for the IT faculty</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
-
 <category>
-    <pattern>^ What are the contact methods for the IT faculty ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>contact methods for the IT</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ Is there a contact page for the IT department ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>Is there a contact page for the IT department</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ Provide me with the IT faculty contact information ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>Provide me with the IT faculty contact information</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ How do I get in touch with the IT department ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>How do I get in touch with the IT department</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ Tell me about the IT faculty contact details ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>Tell me about the IT contact details</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ What is the contact page for the IT department ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>What is the contact page for the IT department</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 <category>
-    <pattern>^ How can I contact the IT faculty ^</pattern>
-    <template>
-        <srai>how can i contact with the it</srai>
-    </template>
+    <pattern>How can I contact the IT faculty</pattern>
+    <template><button><text>IT faculty contact</text><url>https://hu.edu.jo/facnew/contact_us.aspx?unitid=67000000</url></button></template>
 </category>
 
 
@@ -684,706 +1148,1748 @@
 <!--questions about the it building:-->
 
 <category>
-    <pattern>
-        ^ how many floor^ do the building contain^ ^
-    </pattern>
-    <template>
-        3 floors.
+    <pattern>how many floors do the building contain</pattern>
+    <template>3 floors.
         floor 0,
         floor 1,
-        floor 2.
-    </template>
+        floor 2.</template>
 </category>
 <category>
-    <pattern>^ floor^ ^ in ^</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ floors in the ^ building</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
+    <pattern>how many floors in the IT faculty</pattern>
+    <template>3 floors.
+        floor 0,
+        floor 1,
+        floor 2.</template>
 </category>
 
 <category>
-    <pattern>^ What is the floor count of the building ^</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
+    <pattern>number of floors in the building</pattern>
+    <template>3 floors.
+        floor 0,
+        floor 1,
+        floor 2.</template>
+</category>
+<category>
+    <pattern>number of floors in the IT</pattern>
+    <template>3 floors.
+        floor 0,
+        floor 1,
+        floor 2.</template>
 </category>
 
 <category>
-    <pattern>^ building floor^ ^</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
+    <pattern>What is the floor count of the building</pattern>
+    <template>3 floors.
+        floor 0,
+        floor 1,
+        floor 2.</template>
 </category>
 
 <category>
-    <pattern>^ building floor^ ^</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
+    <pattern>how many floors in the IT building</pattern>
+    <template>3 floors.
+        floor 0,
+        floor 1,
+        floor 2.</template>
 </category>
 
 <category>
-    <pattern>^ levels ^ the ^</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
-</category>
-<category>
-    <pattern>^How many floors are there in the building?</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
+    <pattern>count the number of floors of the IT</pattern>
+    <template>3 floors.
+        floor 0,
+        floor 1,
+        floor 2.</template>
 </category>
 
 <category>
-    <pattern>^Tell me about the number of floors in the building.</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
+    <pattern>how many levels in the IT faculty</pattern>
+    <template>3 floors.
+        floor 0,
+        floor 1,
+        floor 2.</template>
+</category>
+<category>
+    <pattern>How many floors are there in the building</pattern>
+    <template>3 floors.
+        floor 0,
+        floor 1,
+        floor 2.</template>
 </category>
 
 <category>
-    <pattern>^What is the floor count of the building?</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
+    <pattern>Tell me about the number of floors in the IT building</pattern>
+    <template>3 floors.
+        floor 0,
+        floor 1,
+        floor 2.</template>
 </category>
 
 <category>
-    <pattern>^Give me information about the building's floors.</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
+    <pattern>Give me information about the IT floors</pattern>
+    <template>3 floors.
+        floor 0,
+        floor 1,
+        floor 2.</template>
 </category>
 
 <category>
-    <pattern>^ floor^ ^ IT ^</pattern>
-    <template>
-        <srai>^ how many floor^ do the building contain^ ^</srai>
-    </template>
-</category>
-
-
-
-<category>
-    <pattern>
-       ^ how many bathrooms are there in the it building ^
-    </pattern>
-    <template>
-        18 Bathrooms
+    <pattern>how many bathrooms are there in the it building</pattern>
+    <template>18 Bathrooms
         6 for men
         6 for women
-        6 for employess
-    </template>
-</category>
-<category>
-    <pattern>^ many ^ bathroom^ ^ IT ^</pattern>
-    <template>
-        <srai>^ how many bathrooms are there in the it building ^</srai>
-    </template>
+        6 for employes</template>
 </category>
 
 <category>
-    <pattern>^ number ^ bathroom^ ^ building ^</pattern>
-    <template>
-        <srai>^ how many bathrooms are there in the it building ^</srai>
-    </template>
+    <pattern>number of bathrooms in the IT</pattern>
+    <template>18 Bathrooms
+        6 for men
+        6 for women
+        6 for employes</template>
 </category>
 
 <category>
-    <pattern>^ bathroom^ ^ count ^ IT ^</pattern>
-    <template>
-        <srai>^ how many bathrooms are there in the it building ^</srai>
-    </template>
+    <pattern>what is the number of bathrooms in IT</pattern>
+    <template>18 Bathrooms
+        6 for men
+        6 for women
+        6 for employes</template>
 </category>
 
 <category>
-    <pattern>^ bathroom^ ^ there ^</pattern>
-    <template>
-        <srai>^ how many bathrooms are there in the it building ^</srai>
-    </template>
-</category>
-
-<category>
-    <pattern>^ bathroom^ ^ available ^ IT ^</pattern>
-    <template>
-        <srai>^ how many bathrooms are there in the it building ^</srai>
-    </template>
-</category>
-
-
-
-<category>
-    <pattern>
-        ^ how many worships places are there in the building ^
-    </pattern>
-    <template>
-        2
+    <pattern>how many worships places are there in the building</pattern>
+    <template>2
         1 for men
-        1 for women
-    </template>
+        1 for women</template>
 </category>
 <category>
-    <pattern>^ Tell me about the number of worship^ places in the building ^</pattern>
-    <template>
-        <srai>^ how many worships places are there in the building ^</srai>
-    </template>
+    <pattern>Tell me about the number of worship places in the building</pattern>
+    <template>2
+        1 for men
+        1 for women</template>
 </category>
 
 <category>
-    <pattern>^ worship^ ^ in the building ^</pattern>
-    <template>
-        <srai>^ how many worships places are there in the building ^</srai>
-    </template>
+    <pattern>is there a bathroom in the IT faculty</pattern>
+    <template>Yes, you can find them in every floor</template>
+</category>
+<category>
+    <pattern>is there a bathroom in the IT building</pattern>
+    <template>Yes, you can find them in every floor</template>
 </category>
+<category>
+    <pattern>is there a bathroom in the IT</pattern>
+    <template>Yes, you can find them in every floor</template>
+</category>
 
 <category>
-    <pattern>^ count ^ worship^ ^ IT ^</pattern>
-    <template>
-        <srai>^ how many worships places are there in the building ^</srai>
-    </template>
+    <pattern>is there a worship in the IT</pattern>
+    <template>Yes,
+              The women worship in floor 3
+              The men worship in floor 2</template>
+</category>
+<category>
+    <pattern>is there a worship in the IT building</pattern>
+    <template>Yes,
+              The women worship in floor 3
+              The men worship in floor 2</template>
 </category>
+<category>
+    <pattern>is there a worship in the IT faculty</pattern>
+    <template>Yes,
+              The women worship in floor 3
+              The men worship in floor 2</template>
+</category>
 
 <category>
-    <pattern>^ how * worship^ ^ it ^</pattern>
-    <template>
-        <srai>^ how many worships places are there in the building ^</srai>
-    </template>
+    <pattern>where can i find the women worship</pattern>
+    <template>In floor No.3</template>
+</category>
+<category>
+    <pattern>how can i find the women worship</pattern>
+    <template>In floor No.3</template>
 </category>
+<category>
+    <pattern>where can i find the men worship</pattern>
+    <template>In floor No.2</template>
+</category>
+<category>
+    <pattern>how can i find the men worship</pattern>
+    <template>In floor No.2</template>
+</category>
+
+
 
 <category>
-    <pattern>^ many ^ prayer^ ^ IT ^</pattern>
-    <template>
-        <srai>^ how many worships places are there in the building ^</srai>
-    </template>
+    <pattern>how many departments in the IT</pattern>
+    <template>6 departments</template>
 </category>
 
 <category>
-    <pattern>^ much worship^ in it ^</pattern>
-    <template>
-        <srai>^ how many worships places are there in the building ^</srai>
-    </template>
+    <pattern>what is the number of departments in IT</pattern>
+    <template>6 departments</template>
 </category>
 
+<category>
+    <pattern>how many departmetns in the IT faculty</pattern>
+    <template>6 departments</template>
+</category>
+<category>
+    <pattern>how many departmetns in the IT building</pattern>
+    <template>6 departments</template>
+</category>
+<category>
+    <pattern>list the departments of the IT building</pattern>
+    <template>CS, CIS, CYS, SWE, BIT, AI</template>
+</category>
+<category>
+    <pattern>what are the departments of the IT faculty</pattern>
+    <template>CS, CIS, CYS, SWE, BIT, AI</template>
+</category>
+<category>
+    <pattern>mention the the departments of the IT faculty</pattern>
+    <template>CS, CIS, CYS, SWE, BIT, AI</template>
+</category>
+<category>
+    <pattern>name the the departments of the IT faculty</pattern>
+    <template>CS, CIS, CYS, SWE, BIT, AI</template>
+</category>
 
 
 <category>
-    <pattern>
-        ^ how many department^ in the IT ^
-    </pattern>
-    <template>
-        6 departments
-    </template>
+    <pattern>what is the location of women bathroom</pattern>
+    <template>You can find them in every floor</template>
 </category>
 <category>
-    <pattern>^ number^ ^ department^ ^ IT ^</pattern>
-    <template>
-        <srai>^ how many department^ in the IT ^</srai>
-    </template>
+    <pattern>what is the location of men bathroom</pattern>
+    <template>You can find them in every floor</template>
 </category>
 
 <category>
-    <pattern>^ detail^ department^ ^ IT ^</pattern>
-    <template>
-        <srai>^ how many department^ in the IT ^</srai>
-    </template>
+    <pattern>where can i find the men bathrooms</pattern>
+    <template>You can find them in every floor</template>
 </category>
-
 <category>
-    <pattern>^ count ^ department^ IT ^</pattern>
-    <template>
-        <srai>^ how many department^ in the IT ^</srai>
-    </template>
+    <pattern>what is the location of men bathrooms</pattern>
+    <template>You can find them in every floor</template>
 </category>
 
 <category>
-    <pattern>^Give me information about the departments in the IT faculty.^</pattern>
-    <template>
-        <srai>^ how many department^ in the IT ^</srai>
-    </template>
+    <pattern>where can i find the women worship</pattern>
+    <template>In floor No.3</template>
+</category>
+<category>
+    <pattern>what is the location of women worship</pattern>
+    <template>In floor No.3</template>
 </category>
 
 <category>
-    <pattern>^How many academic departments are there in the IT faculty?^</pattern>
-    <template>
-        <srai>^ how many department^ in the IT ^</srai>
-    </template>
+    <pattern>what is the location of women worship</pattern>
+    <template>In floor No.3</template>
 </category>
 
+<category>
+    <pattern>where can i find the men worship</pattern>
+    <template>In floor No.2</template>
+</category>
 
+<category>
+    <pattern>what is the location of men worship</pattern>
+    <template>In floor No.3</template>
+</category>
 
 <category>
-    <pattern>
-       ^ where can i find the women bathrooms ^
-    </pattern>
-    <template>
-        In floor0 and floor1 and floor2.
-    </template>
+    <pattern>where can i find the security office</pattern>
+    <template>In floor No.3</template>
 </category>
 <category>
-    <pattern>^ location of wom^ bathroom^ ^</pattern>
-    <template>
-        <srai>^ where can i find the women bathrooms ^</srai>
-    </template>
+    <pattern>guide me to the security office</pattern>
+    <template>In floor No.3</template>
 </category>
 
 <category>
-    <pattern>^ floor^ ^ wom^ bathroom^ locate^ ^</pattern>
-    <template>
-        <srai>^ where can i find the women bathrooms ^</srai>
-    </template>
+    <pattern>what is the location of security office</pattern>
+    <template>In floor No.3</template>
 </category>
 
 <category>
-    <pattern>^ detail^ wom^ bathroom^ ^ it ^</pattern>
-    <template>
-        <srai>^ where can i find the women bathrooms ^</srai>
-    </template>
+    <pattern>where is the deanship of the college exist</pattern>
+    <template>In floor No.3</template>
 </category>
+<category>
+    <pattern>where can i find the deanship of the college</pattern>
+    <template>In floor No.3</template>
+</category>
 
 <category>
-    <pattern>^ wom^ bathroom^ ^ situat^ ^</pattern>
-    <template>
-        <srai>^ where can i find the women bathrooms ^</srai>
-    </template>
+    <pattern>in which floor does the deanship of college</pattern>
+    <template>In floor No.3</template>
 </category>
 
 <category>
-    <pattern>^ wom^ ^ bathr^ ^ it ^</pattern>
-    <template>
-        <srai>^ where can i find the women bathrooms ^</srai>
-    </template>
+    <pattern>how can i find the deanship of IT faculty</pattern>
+    <template>In floor No.3</template>
 </category>
 
+<category>
+    <pattern>what is the location of IT deanship</pattern>
+    <template>In floor No.3</template>
+</category>
+<category>
+    <pattern>where is the IT deanship</pattern>
+    <template>In floor No.3</template>
+</category>
+<category>
+    <pattern>where is the IT deanship exist</pattern>
+    <template>In floor No.3</template>
+</category>
 
+<category>
+    <pattern>how many halls in the It building</pattern>
+    <template>There is only 1 hall.
+              You can find it in the floor No.2</template>
+</category>
+<category>
+    <pattern>what is the number of halls in IT</pattern>
+    <template>There is only 1 hall.
+              You can find it in the floor No.2</template>
+</category>
 
 <category>
-    <pattern>
-       ^ where can i find the men bathrooms ^
-    </pattern>
-    <template>
-        In floor0 and floor1 and floor2.
-    </template>
+    <pattern>where is the IT hall</pattern>
+    <template>There is only 1 hall.
+              You can find it in the floor No.2</template>
 </category>
+
 <category>
-    <pattern>^ location of m^ bathroom^ ^</pattern>
-    <template>
-        <srai> ^ where can i find the men bathrooms ^</srai>
-    </template>
+    <pattern>how can i find the IT hall</pattern>
+    <template>There is only 1 hall.
+              You can find it in the floor No.2</template>
 </category>
 
 <category>
-    <pattern>^ floor^ ^ m^ bathroom^ locate^ ^</pattern>
-    <template>
-        <srai>^ where can i find the men bathrooms ^</srai>
-    </template>
+    <pattern>how many halls in the IT faculty</pattern>
+    <template>There is only 1 hall.
+              You can find it in the floor No.2</template>
 </category>
 
+
+
 <category>
-    <pattern>^ detail^ m^ bathroom^ ^ it ^</pattern>
-    <template>
-        <srai>^ where can i find the men bathrooms ^</srai>
-    </template>
+    <pattern>where is the hall located</pattern>
+    <template>In floor No.2</template>
 </category>
+<category>
+    <pattern>what is the location of the IT hall</pattern>
+    <template>In floor No.2</template>
+</category>
+<category>
+    <pattern>what is the IT hall location</pattern>
+    <template>In floor No.2</template>
+</category>
 
 <category>
-    <pattern>^ m^ bathroom^ ^ situat^ ^</pattern>
-    <template>
-        <srai>^ where can i find the men bathrooms ^</srai>
-    </template>
+    <pattern>the hall exist for what</pattern>
+    <template>For Events, Workshops, Activities</template>
+</category>
+<category>
+    <pattern>what is the purpose of the IT hall</pattern>
+    <template>For Events, Workshops, Activities</template>
+</category>
+<category>
+    <pattern>the IT hall used for what</pattern>
+    <template>For Events, Workshops, Activities</template>
+</category>
+<category>
+    <pattern>what is the use of IT hall</pattern>
+    <template>For Events, Workshops, Activities</template>
 </category>
 
 <category>
-    <pattern>^ m^ ^ bathr^ ^ it ^</pattern>
-    <template>
-        <srai>^ where can i find the men bathrooms ^</srai>
-    </template>
+    <pattern>what kind of events the hall used for</pattern>
+    <template>For Events, Workshops, Activities</template>
 </category>
 
+<category>
+    <pattern>what is the goal of the IT hall</pattern>
+    <template>For Events, Workshops, Activities</template>
+</category>
 
+<category>
+    <pattern>what are the activities of the IT hall</pattern>
+    <template>For Events, Workshops, Activities</template>
+</category>
 
+<category>
+    <pattern>what is the reason of IT hall</pattern>
+    <template>For Events, Workshops, Activities</template>
+</category>
 
 
+<category>
+    <pattern>what is the capacity of the hall</pattern>
+    <template>Around 300 hundred person.</template>
+</category>
 
 <category>
-    <pattern>
-       ^ where can i find the wom^ worship^ ^
-    </pattern>
-    <template>
-        In floor 2.
-    </template>
+    <pattern>what is the capacity of the IT hall</pattern>
+    <template>Around 300 hundred person.</template>
 </category>
 <category>
-    <pattern>^ wom^ ^ worship^ ^</pattern>
-    <template>
-        <srai>^ where can i find the wom^ worship^ ^</srai>
-    </template>
+    <pattern>how many people fit in the IT hall</pattern>
+    <template>Around 300 hundred person.</template>
 </category>
+
 
+
 <category>
-    <pattern>^ floor wom^ ^ worship^ ^ locat^ ^</pattern>
-    <template>
-        <srai>^ where can i find the wom^ worship^ ^</srai>
-    </template>
+    <pattern>who is dr Bashar Alkhawaldeh</pattern>
+          <template>He is the head of Computer Science.
+          For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is the role of dr Bashar Alkhawaldeh</pattern>
+          <template>He is the head of Computer Science
+           For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
 </category>
 
 <category>
-    <pattern>^ location ^ wom^ ^ worship^ ^</pattern>
-    <template>
-        <srai>^ where can i find the wom^ worship^ ^</srai>
-    </template>
+    <pattern>what is dr Bashar Alkhawaldeh Email</pattern>
+          <template>bashar.igried@hu.edu.jo
+           For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>provide information about dr Bashar Alkhawaldeh</pattern>
+          <template>He is the head of Computer Science.
+            his email: bashar.igried@hu.edu.jo
+             For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what courses does dr bashar alkhwaldeh teach</pattern>
+          <template>C++, Logic, ORG, Project Graduations, Internship program</template>
 </category>
+<category>
+    <pattern>What courses are taught by dr Bashar Alkhawaldeh</pattern>
+          <template>C++, Logic, ORG, Project Graduations, Internship program</template>
+</category>
+<category>
+    <pattern>what is the department that bashar alkhwaldeh manage</pattern>
+          <template>Computer Science department
+           For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>Which department does dr Bashar Alkhawaldeh head</pattern>
+          <template>Computer Science department
+           For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+
 
 <category>
-    <pattern>^ info^ ^ wom^ ^ worship^ ^</pattern>
-    <template>
-        <srai>^ where can i find the wom^ worship^ ^</srai>
-    </template>
+    <pattern>who is dr Subhieh Alsalhi</pattern>
+    <template>She is the head of Computer Information System
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is the role of dr Subhieh Alsalhi</pattern>
+    <template>She is the head of Computer Information System
+    For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is dr Subhieh Alsalhi Email</pattern>
+    <template>subhieh@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>provide information about dr Subhieh Alsalhi</pattern>
+    <template>She is the head of Computer Information System.
+        Her email: subhieh@hu.edu.jo@hu.edu.jo
+         For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what courses does dr subhieh alsalhi teach</pattern>
+    <template>Data Base, Data Mining, Project Graduations, Internship program</template>
+</category>
+<category>
+    <pattern>What courses are taught by dr Subhieh Alsalhi</pattern>
+    <template>Data Base, Data Mining, Project Graduations, Internship program</template>
+</category>
+<category>
+    <pattern>what is the department that subhieh alsalhi manage</pattern>
+    <template>Computer Information System.
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>Which department does dr Subhieh Alsalhi head</pattern>
+    <template>Computer Information System.
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
 </category>
+
 
+
 <category>
-    <pattern>^ detail^ ^ wom^ ^ worship^ ^</pattern>
-    <template>
-        <srai>^ where can i find the wom^ worship^ ^</srai>
-    </template>
+    <pattern>who is dr Bashar Alshboul</pattern>
+    <template>He is the head of Software Engineering department
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is the role of dr Bashar Alshboul</pattern>
+    <template>He is the head of Software Engineering department
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is dr Bashar Alshboul Email</pattern>
+    <template>bashar.alshboul@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>provide information about dr Bashar Alshboul</pattern>
+    <template>He is the head of Software Engineering department.
+        His email: bashar.alshboul@hu.edu.jo
+         For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
 </category>
+<category>
+    <pattern>what courses does dr bashar alshboul teach</pattern>
+    <template>WEB, UML, Software, Project Graduations, Internship program</template>
+</category>
+<category>
+    <pattern>What courses are taught by dr Bashar Alshboul</pattern>
+    <template>WEB, UML, Software, Project Graduations, Internship program</template>
+</category>
+<category>
+    <pattern>what is the department that bashar alshboul manage</pattern>
+    <template>Software Engineering department0
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link>.</template>
+</category>
+<category>
+    <pattern>Which department does dr Bashar Alshboul head</pattern>
+    <template>Software Engineering department.
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
 
+
+
 <category>
-    <pattern>
-        ^ wom^ ^ pray^
-    </pattern>
-    <template>
-        <srai>^ where can i find the wom^ worship^ ^</srai>
-    </template>
+    <pattern>who is dr Mamoon Alobedat</pattern>
+    <template>He is the head of BIT and AI and Cyber Security departments.
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
 </category>
+<category>
+    <pattern>what is the role of dr Mamoon Alobedat</pattern>
+    <template>He is the head of BIT and AI and Cyber Security departments.
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is dr Mamoon Alobedat Email</pattern>
+    <template>Mamoon@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>provide information about dr Mamoon Alobedat</pattern>
+    <template>He is the head of BIT and AI and Cyber Security departments.
+        His email: Mamoon@hu.edu.jo
+         For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what courses does dr mamoon alobedat teach</pattern>
+    <template>AI and CYS and BIT courses
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>What courses are taught by dr Mamoon Alobedat</pattern>
+    <template>AI and CYS and BIT courses
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is the department that mamoon alobedat manage</pattern>
+    <template>BIT and AI and Cyber Security departments.
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>Which department does dr Mamoon Alobedat head</pattern>
+    <template>BIT and AI and Cyber Security departments.
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
 
 
 
 <category>
-    <pattern>
-       ^ where can i find the m^ worship^ ^
-    </pattern>
-    <template>
-        In floor 1.
-    </template>
+    <pattern>who is dr khalid alsarayreh</pattern>
+    <template>He is the head of IT faculty
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
 </category>
 <category>
-    <pattern>^ m^ ^ worship^ ^</pattern>
-    <template>
-        <srai>^ where can i find the m^ worship^ ^</srai>
-    </template>
+    <pattern>what is dr Khalid Alsarayreh role</pattern>
+    <template>He is the head of IT faculty
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>describe dr Khalid Alsarayreh position</pattern>
+    <template>He is the head of IT faculty
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>who oversees the IT faculty</pattern>
+    <template>Dr. Khalid Alsarayreh
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what department does dr Khalid Alsarayreh lead</pattern>
+    <template>IT faculty
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
 </category>
+<category>
+    <pattern>identify the head of IT faculty</pattern>
+    <template>Dr. Khalid Alsarayreh
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>which faculty does dr Khalid Alsarayreh manage</pattern>
+    <template>IT faculty
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+
 
 <category>
-    <pattern>^ floor m^ ^ worship^ ^ locat^ ^</pattern>
-    <template>
-        <srai>^ where can i find the m^ worship^ ^</srai>
-    </template>
+    <pattern>who is dr Sahar Idwan</pattern>
+    <template>She is a professor in Algorithms
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is dr Sahar Idwan Email</pattern>
+    <template>sahar@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>provide information about dr Sahar Idwan</pattern>
+    <template>She is a professor in Algorithms. Her email: sahar@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
 </category>
+<category>
+    <pattern>what courses does dr sahar idwan teach</pattern>
+    <template>Algorithms, C++, OS, Project Graduations</template>
+</category>
 
 <category>
-    <pattern>^ location ^ m^ ^ worship^ ^</pattern>
-    <template>
-        <srai>^ where can i find the m^ worship^ ^</srai>
-    </template>
+    <pattern>who is dr Alaa Eddin Attar</pattern>
+    <template>He is a professor in Data Structure
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is dr Alaa Eddin Attar Email</pattern>
+    <template>aabdallah@hu.edu.jo
+    For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
 </category>
+<category>
+    <pattern>provide information about dr Alaa Eddin Attar</pattern>
+    <template>He is a professor in Data Structure. His email: aabdallah@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what courses does dr alaa eddin attar teach</pattern>
+    <template>Data Structure, Theory, Project Graduations</template>
+</category>
 
 <category>
-    <pattern>^ info^ ^ m^ ^ worship^ ^</pattern>
-    <template>
-        <srai>^ where can i find the m^ worship^ ^</srai>
-    </template>
+    <pattern>who is dr Mohammad Bsoul</pattern>
+    <template>He is a professor in Networks
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is dr Mohammad Bsoul Email</pattern>
+    <template>mbsoul@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>provide information about dr Mohammad Bsoul</pattern>
+    <template>He is a professor in networks. His email: mbsoul@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what courses does dr mohammad bsoul teach</pattern>
+    <template>Networks, Project Graduations</template>
 </category>
 
 <category>
-    <pattern>^ detail^ ^ m^ ^ worship^ ^</pattern>
-    <template>
-        <srai>^ where can i find the m^ worship^ ^</srai>
-    </template>
+    <pattern>who is dr Ebaa Fayoumi</pattern>
+    <template>She is a professor in AI
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is dr Ebaa Fayoumi Email</pattern>
+    <template>enfayyoumi@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>provide information about dr Ebaa Fayoumi</pattern>
+    <template>She is a professor in AI. Her email: enfayyoumi@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
 </category>
+<category>
+    <pattern>what courses does dr ebaa fayoumi teach</pattern>
+    <template>AI, Theory, Project Graduations</template>
+</category>
 
 <category>
-    <pattern>
-        ^ m^ ^ pray^
-    </pattern>
-    <template>
-        <srai>^ where can i find the m^ worship^ ^</srai>
-    </template>
+    <pattern>who is dr Ashraf Aljammal</pattern>
+    <template>He is a professor in Networks
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is dr Ashraf Aljammal Email</pattern>
+    <template>ashrafj@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
 </category>
+<category>
+    <pattern>provide information about dr Ashraf Aljammal</pattern>
+    <template>He is a professor in networks. His email: ashrafj@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what courses does dr ashraf aljammal teach</pattern>
+    <template>Networks, OS, Project Graduations</template>
+</category>
 
+<category>
+    <pattern>who is dr Nabhan Hamadneh</pattern>
+    <template>He is a professor in Multimedia and Semulation
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what is dr Nabhan Hamadneh Email</pattern>
+    <template>Nabhan@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>provide information about dr Nabhan Hamadneh</pattern>
+    <template>He is a professor in Multimedia and Simulation. His email: Nabhan@hu.edu.jo
+     For more information about other instructors you can visit the link 
+                    <link>
+                        <text>more information</text>
+                        <url>https://hu.edu.jo/facnew/academic.aspx</url>
+                    </link></template>
+</category>
+<category>
+    <pattern>what courses does dr nabhan hamadneh teach</pattern>
+    <template>Networks, Multimedia, Simulation, Project Graduations</template>
+</category>
 
 
 <category>
-    <pattern>
-        ^ where can i find the security office ^
-    </pattern>
-    <template>
-        In floor 2.
+    <pattern>tell me about Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
 <category>
-    <pattern>^ guide ^ secur^ ^ office^ ^</pattern>
-    <template>
-        <srai>^ where can i find the security office ^</srai>
+    <pattern>tell me about Computer CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ floor^ ^ secur^ ^</pattern>
-    <template>
-        <srai>^ where can i find the security office ^</srai>
+    <pattern>what is the CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ location ^ secur^ ^office^ ^</pattern>
-    <template>
-        <srai>^ where can i find the security office ^</srai>
+    <pattern>what is the Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone:+962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
+<category>
+    <pattern>how can i communicate with Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>how can i communicate with CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>how can i contact with Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>how can i contact with CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
 <category>
-    <pattern>^ info^ ^ secur^ ^ office^ ^</pattern>
-    <template>
-        <srai>^ where can i find the security office ^</srai>
+        <pattern>describe Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
+<category>
+        <pattern>describe CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>explain about Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>explain about CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
 
 <category>
-    <pattern>^ detail^ ^ secur^ ^</pattern>
-    <template>
-        <srai>^ where can i find the security office ^</srai>
+        <pattern>provide details about Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
 
+<category>
+        <pattern>provide details about CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>what can you tell me about CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>what can you tell me about Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>explain the role of Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>explain the role of CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>share information about the CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>share information about the Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>what is the purpose of Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>what is the purpose of CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>discuss the objectives of Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>discuss the objectives of CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>provide an overview of the Computer Science and Applications department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>provide an overview of the CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>discuss the goals of the Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>discuss the goals of the CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>provide information on how to contact Computer Science department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+        <pattern>provide information on how to contact CS department</pattern>
+    <template>The Department of Computer Science and Applications seeks to provide computer science and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962 53903333 - 4811
+    Email: csa@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
 
 
 
 <category>
-    <pattern>
-        ^ where is or in which floor the deanship of the college exist ^
-    </pattern>
-    <template>
-        In floor 2.
+    <pattern>tell me about Computer Information Systems department</pattern>
+    <template>The department offers a bachelor's program in computer information systems and a master's program in cybersecurity. The bachelor's program in computer information systems was internationally accredited by ABET Engineering and Technology Accreditation Council in August 2020, and the department also provides modern computer laboratories, fully equipped classrooms, and the department offers many courses that cover different areas, from information systems such as: systems analysis and design, data retrieval systems, databases, data storage, data mining, information systems security and commerce.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ floor ^ dean^ ^ college ^</pattern>
-    <template>
-        <srai>^ where is or in which floor the deanship of the college exist ^</srai>
+    <pattern>tell me about Computer Information Systems department</pattern>
+    <template>The department offers a bachelor's program in computer information systems and a master's program in cybersecurity. The bachelor's program in computer information systems was internationally accredited by ABET Engineering and Technology Accreditation Council in August 2020, and the department also provides modern computer laboratories, fully equipped classrooms, and the department offers many courses that cover different areas, from information systems such as: systems analysis and design, data retrieval systems, databases, data storage, data mining, information systems security and commerce.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ deanship ^</pattern>
-    <template>
-        <srai>^ where is or in which floor the deanship of the college exist ^</srai>
+    <pattern>what is the CIS department</pattern>
+    <template>The department offers a bachelor's program in computer information systems and a master's program in cybersecurity. The bachelor's program in computer information systems was internationally accredited by ABET Engineering and Technology Accreditation Council in August 2020, and the department also provides modern computer laboratories, fully equipped classrooms, and the department offers many courses that cover different areas, from information systems such as: systems analysis and design, data retrieval systems, databases, data storage, data mining, information systems security and commerce.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ location ^ deanship ^ college ^</pattern>
-    <template>
-        <srai>^ where is or in which floor the deanship of the college exist ^</srai>
+    <pattern>what is the Computer Information Systems department</pattern>
+    <template>The department offers a bachelor's program in computer information systems and a master's program in cybersecurity. The bachelor's program in computer information systems was internationally accredited by ABET Engineering and Technology Accreditation Council in August 2020, and the department also provides modern computer laboratories, fully equipped classrooms, and the department offers many courses that cover different areas, from information systems such as: systems analysis and design, data retrieval systems, databases, data storage, data mining, information systems security and commerce.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ info^ ^ deanship ^</pattern>
-    <template>
-        <srai>^ where is or in which floor the deanship of the college exist ^</srai>
+    <pattern>how can i communicate with CIS department</pattern>
+    <template>The department offers a bachelor's program in computer information systems and a master's program in cybersecurity. The bachelor's program in computer information systems was internationally accredited by ABET Engineering and Technology Accreditation Council in August 2020, and the department also provides modern computer laboratories, fully equipped classrooms, and the department offers many courses that cover different areas, from information systems such as: systems analysis and design, data retrieval systems, databases, data storage, data mining, information systems security and commerce.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ detail^ ^ deanship ^ college ^</pattern>
-    <template>
-        <srai>^ where is or in which floor the deanship of the college exist ^</srai>
+    <pattern>how can i communicate with CIS department</pattern>
+    <template>The department offers a bachelor's program in computer information systems and a master's program in cybersecurity. The bachelor's program in computer information systems was internationally accredited by ABET Engineering and Technology Accreditation Council in August 2020, and the department also provides modern computer laboratories, fully equipped classrooms, and the department offers many courses that cover different areas, from information systems such as: systems analysis and design, data retrieval systems, databases, data storage, data mining, information systems security and commerce.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
-
 <category>
-    <pattern>
-       ^ how many halls in the it building ^
-    </pattern>
-    <template>
-        There is only 1 hall.
+    <pattern>how can i contact with CIS department</pattern>
+    <template>The department offers a bachelor's program in computer information systems and a master's program in cybersecurity. The bachelor's program in computer information systems was internationally accredited by ABET Engineering and Technology Accreditation Council in August 2020, and the department also provides modern computer laboratories, fully equipped classrooms, and the department offers many courses that cover different areas, from information systems such as: systems analysis and design, data retrieval systems, databases, data storage, data mining, information systems security and commerce.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
 <category>
-    <pattern>^ number^ ^ ^hall^ ^ IT ^</pattern>
-    <template>
-        <srai>^ how many halls in the it building ^</srai>
+    <pattern>how can i contact with Computer Information Systems department</pattern>
+    <template>The department offers a bachelor's program in computer information systems and a master's program in cybersecurity. The bachelor's program in computer information systems was internationally accredited by ABET Engineering and Technology Accreditation Council in August 2020, and the department also provides modern computer laboratories, fully equipped classrooms, and the department offers many courses that cover different areas, from information systems such as: systems analysis and design, data retrieval systems, databases, data storage, data mining, information systems security and commerce.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
 
 <category>
-    <pattern>^ IT ^ ^ hall^ ^</pattern>
-    <template>
-        <srai>^ how many halls in the it building ^</srai>
+    <pattern>describe Computer Information Systems department</pattern>
+    <template>The Department of Computer Information Systems and Applications seeks to provide computer information systems and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ number ^ hall^ ^</pattern>
-    <template>
-        <srai>^ how many halls in the it building ^</srai>
+    <pattern>describe CIS department</pattern>
+    <template>The Department of Computer Information Systems and Applications seeks to provide computer information systems and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ count ^ hall^ ^ IT ^</pattern>
-    <template>
-        <srai>^ how many halls in the it building ^</srai>
+    <pattern>explain about Computer Information Systems department</pattern>
+    <template>The Department of Computer Information Systems and Applications seeks to provide computer information systems and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ number of hall^ ^ IT ^</pattern>
-    <template>
-        <srai>^ how many halls in the it building ^</srai>
+    <pattern>explain about CIS department</pattern>
+    <template>The Department of Computer Information Systems and Applications seeks to provide computer information systems and education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962(5)3903333 - 4988
+    Email: cis@hu.edu.jo
+    you can read and find more about the departments form this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
 
 
 
 <category>
-    <pattern>
-       ^ where is the hall located ^
-    </pattern>
-    <template>
-        In floor 1.
+    <pattern>tell me about Software Engineering department</pattern>
+    <template>The techniques used in software engineering aim to improve the performance of the program and increase its reliability, in addition to facilitating the development of the program itself, and the main goal of the Software Engineering Department is to provide the local and regional market with distinguished students with high skills, and the department also focuses on raising the efficiency of students, and making them competitive in the field of software engineering, and focuses heavily on the student's ability to analyze, design, implement and examine any program.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
 <category>
-    <pattern>^ find ^ hall ^</pattern>
-    <template>
-        <srai>^ where is the hall located ^</srai>
+    <pattern>tell me about SWE department</pattern>
+    <template>The techniques used in software engineering aim to improve the performance of the program and increase its reliability, in addition to facilitating the development of the program itself, and the main goal of the Software Engineering Department is to provide the local and regional market with distinguished students with high skills, and the department also focuses on raising the efficiency of students, and making them competitive in the field of software engineering, and focuses heavily on the student's ability to analyze, design, implement and examine any program.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ floor ^ hall ^</pattern>
-    <template>
-        <srai>^ where is the hall located ^</srai>
+    <pattern>what is the SWE department</pattern>
+    <template>The techniques used in software engineering aim to improve the performance of the program and increase its reliability, in addition to facilitating the development of the program itself, and the main goal of the Software Engineering Department is to provide the local and regional market with distinguished students with high skills, and the department also focuses on raising the efficiency of students, and making them competitive in the field of software engineering, and focuses heavily on the student's ability to analyze, design, implement and examine any program.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ IT ^ hall ^</pattern>
-    <template>
-        <srai>^ where is the hall located ^</srai>
+    <pattern>what is the Software Engineering department</pattern>
+    <template>The techniques used in software engineering aim to improve the performance of the program and increase its reliability, in addition to facilitating the development of the program itself, and the main goal of the Software Engineering Department is to provide the local and regional market with distinguished students with high skills, and the department also focuses on raising the efficiency of students, and making them competitive in the field of software engineering, and focuses heavily on the student's ability to analyze, design, implement and examine any program.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ hall ^ IT ^</pattern>
-    <template>
-        <srai>^ where is the hall located ^</srai>
+    <pattern>how can i communicate with SWE department</pattern>
+    <template>The techniques used in software engineering aim to improve the performance of the program and increase its reliability, in addition to facilitating the development of the program itself, and the main goal of the Software Engineering Department is to provide the local and regional market with distinguished students with high skills, and the department also focuses on raising the efficiency of students, and making them competitive in the field of software engineering, and focuses heavily on the student's ability to analyze, design, implement and examine any program.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
-
 <category>
-    <pattern>
-       ^ the hall exist for what ^
-    </pattern>
-    <template>
-        For Events, Workshops, Activities
+    <pattern>how can i communicate with SWE department</pattern>
+    <template>The techniques used in software engineering aim to improve the performance of the program and increase its reliability, in addition to facilitating the development of the program itself, and the main goal of the Software Engineering Department is to provide the local and regional market with distinguished students with high skills, and the department also focuses on raising the efficiency of students, and making them competitive in the field of software engineering, and focuses heavily on the student's ability to analyze, design, implement and examine any program.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ purpose ^ hall ^</pattern>
-    <template>
-        <srai>^ the hall exist for what ^</srai>
+    <pattern>how can i contact with SWE department</pattern>
+    <template>The techniques used in software engineering aim to improve the performance of the program and increase its reliability, in addition to facilitating the development of the program itself, and the main goal of the Software Engineering Department is to provide the local and regional market with distinguished students with high skills, and the department also focuses on raising the efficiency of students, and making them competitive in the field of software engineering, and focuses heavily on the student's ability to analyze, design, implement and examine any program.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ hall ^ use^ ^</pattern>
-    <template>
-        <srai>^ the hall exist for what ^</srai>
+    <pattern>how can i contact with Software Engineering department</pattern>
+    <template>The techniques used in software engineering aim to improve the performance of the program and increase its reliability, in addition to facilitating the development of the program itself, and the main goal of the Software Engineering Department is to provide the local and regional market with distinguished students with high skills, and the department also focuses on raising the efficiency of students, and making them competitive in the field of software engineering, and focuses heavily on the student's ability to analyze, design, implement and examine any program.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
 
 <category>
-    <pattern>^ use^ ^ hall ^</pattern>
-    <template>
-        <srai>^ the hall exist for what ^</srai>
+    <pattern>tell me about Software Engineering department</pattern>
+    <template>The Department of Software Engineering and Applications seeks to provide software engineering education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ event^ ^ hall ^</pattern>
-    <template>
-        <srai>^ the hall exist for what ^</srai>
+    <pattern>tell me about SWE department</pattern>
+    <template>The Department of Software Engineering and Applications seeks to provide software engineering education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ goal ^ hall ^</pattern>
-    <template>
-        <srai>^ the hall exist for what ^</srai>
+    <pattern>explain about Software Engineering department</pattern>
+    <template>The Department of Software Engineering and Applications seeks to provide software engineering education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ activi^ ^ hall ^</pattern>
-    <template>
-        <srai>^ the hall exist for what ^</srai>
+    <pattern>explain about SWE department</pattern>
+    <template>The Department of Software Engineering and Applications seeks to provide software engineering education with the best available means, and to work to build functional educational curricula based on international academic research and studies to prepare students adequately to face the challenges of the digital age.
+    Phone: +962(5)3903333 - 4722
+    Email: swe@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
 
 <category>
-    <pattern>^ function^ ^ hall ^</pattern>
-    <template>
-        <srai>^ the hall exist for what ^</srai>
+    <pattern>tell me about Business Information Technology department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ host^ ^ hall ^</pattern>
-    <template>
-        <srai>^ the hall exist for what ^</srai>
+    <pattern>tell me about BIT department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ reason^ ^ hall ^</pattern>
-    <template>
-        <srai>^ the hall exist for what ^</srai>
+    <pattern>what is the BIT department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
 <category>
-    <pattern>^ work^ ^ hall ^</pattern>
-    <template>
-        <srai>^ the hall exist for what ^</srai>
+    <pattern>what is the Business Information Technology department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
-
-
-
+<category>
+    <pattern>how can i communicate with BIT department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>how can i communicate with BIT department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>how can i contact with BIT department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
 <category>
-    <pattern>
-        ^ what is the capacity of the hall ^</pattern>
-    <template>
-        <srai>
-            Around 300 hundred person.
-        </srai>
+    <pattern>how can i contact with Business Information Technology department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
     </template>
 </category>
 
+<category>
+    <pattern>tell me about Business Information Technology department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>tell me about BIT department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>explain about Business Information Technology department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
+<category>
+    <pattern>explain about BIT department</pattern>
+    <template>The idea of establishing this department came in light of the changes in the fields of computing science, their integration with various other fields, and the beginning of the Fourth Industrial Revolution, which is mainly based on artificial intelligence, virtual reality, robotics and the Internet of Things.
+ The department currently offers three academic programs: Bachelor of Data Science and Artificial Intelligence, Bachelor of Cybersecurity, and Bachelor of Business Information Technology.
+    Phone: +962(5)-399303333-4988
+    Email: it_dept@hu.edu.jo
+    you can read and find more about the departments from this link
+    <link>
+        <text>More details</text>
+        <url>https://hu.edu.jo/facnew/departments.aspx?t=0&amp;unitid=67000000</url>
+    </link>
+    </template>
+</category>
 
 
 </aiml>
