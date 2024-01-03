@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	
+	<category>
+	    <pattern>what are the procedure of the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what to do in the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what are the steps of the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what is the duration of the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what is the duration of the original semister training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what is the duration of the summer semister training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what is the duration of the summer semister training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what should i do in the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what to do in the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what the university needs from me in the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what the company needs from me in the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what the organization needs from me in the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what is required in the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what is required to complete the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>how to complete the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>can i ask about the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>can you provide information about the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>give me details about the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>give me information about the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>provide me information about the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>provide details about the training</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>when is the last day to sumbit my training reports</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what is the deadline to sumbit my training reports</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>what is the deadline for the training reports</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>when i have to submit the training reports</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>when should i submit the training reports</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>when should i submit my training reports</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>how to submit training reports</pattern>
+	    <template>You need to find an IT company or any IT organization to train with, then provide a book from this organization that include their approvment, then you need to train with it for 8 weeks for the original season and 6 weeks for the summer season each with 40 hours per week, after completion of the training program provide a report that include what did you learn and fill the university report from your supervisor in the organization.</template>
+    </category>
+	<category>
+	    <pattern>when should i start looking for a company for the training</pattern>
+	    <template>This process might be difficult so you may need to start searching 2 Months before the training semister start</template>
+    </category>
+	<category>
+	    <pattern>when should i start searching for a company for the training</pattern>
+	    <template>This process might be difficult so you may need to start searching 2 Months before the training semister start</template>
+    </category>
+	<category>
+	    <pattern>when should i search for a company for the training</pattern>
+	    <template>This process might be difficult so you may need to start searching 2 Months before the training semister start</template>
+    </category>
+	<category>
+	    <pattern>when should i search for a company to train with</pattern>
+	    <template>This process might be difficult so you may need to start searching 2 Months before the training semister start</template>
+    </category>
+	<category>
+	    <pattern>what is the best time to start searching for a company to train with</pattern>
+	    <template>This process might be difficult so you may need to start searching 2 Months before the training semister start</template>
+    </category>
+	<category>
+	    <pattern>what is the best time to start looking for a company to train with</pattern>
+	    <template>This process might be difficult so you may need to start searching 2 Months before the training semister start</template>
+    </category>
+	<category>
+	    <pattern>what time should i start looking for a company to train with </pattern>
+	    <template>This process might be difficult so you may need to start searching 2 Months before the training semister start</template>
+    </category>
+	<category>
+	    <pattern>what time should i start looking for a company for training</pattern>
+	    <template>This process might be difficult so you may need to start searching 2 Months before the training semister start</template>
+    </category>
+	<category>
+	    <pattern>what time should i start looking for a company to start training</pattern>
+	    <template>This process might be difficult so you may need to start searching 2 Months before the training semister start</template>
+    </category>
+    
+</aiml>

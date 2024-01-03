@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	
+	<category>
+	    <pattern>how many restaurants are there in the university</pattern>
+	    <template>there are 5 resturants:ZAZA Restaurant, Friends Restaurant, Village Restaurant, Medicine Restaurant, AlGharbi Restaurant</template>
+    </category>
+	<category>
+	    <pattern>how many restaurants in the university</pattern>
+	    <template>there are 5 resturants:ZAZA Restaurant, Friends Restaurant, AlSharqi Restaurant, Medicine Restaurant, AlGharbi Restaurant</template>
+    </category>
+	<category>
+	    <pattern>is there any restaurant in the university</pattern>
+	    <template>there are 5 resturants:ZAZA Restaurant, Friends Restaurant, AlSharqi Restaurant, Medicine Restaurant, AlGharbi Restaurant</template>
+    </category>
+	<category>
+	    <pattern>is there restaurant in the university</pattern>
+	    <template>there are 5 resturants:ZAZA Restaurant, Friends Restaurant, AlSharqi Restaurant, Medicine Restaurant, AlGharbi Restaurant</template>
+    </category>
+	<category>
+	    <pattern>are there restaurants in the university</pattern>
+	    <template>there are 5 resturants:ZAZA Restaurant, Friends Restaurant, AlSharqi Restaurant, Medicine Restaurant, AlGharbi Restaurant</template>
+    </category>
+	<category>
+	    <pattern>are there any restaurants in the university</pattern>
+	    <template>there are 5 resturants:ZAZA Restaurant, Friends Restaurant, AlSharqi Restaurant, Medicine Restaurant, AlGharbi Restaurant</template>
+    </category>
+	<category>
+	    <pattern>How can i find the restaurants</pattern>
+	    <template>there are 5 resturants:ZAZA Restaurant, Friends Restaurant, AlSharqi Restaurant, Medicine Restaurant, AlGharbi Restaurant</template>
+    </category>
+	<category>
+	    <pattern>what are the buildings that contains restaurants</pattern>
+	    <template>there are 5 resturants:ZAZA Restaurant, Friends Restaurants, AlSharqi Restaurants, Medicine Restaurants, AlGharbi Restaurants</template>
+    </category>
+	<category>
+	    <pattern>where can i find the restaurants</pattern>
+	    <template>there are 5 resturants:ZAZA Restaurant, Friends Restaurants, AlSharqi Restaurants, Medicine Restaurants, AlGharbi Restaurants</template>
+    </category>
+	<category>
+	    <pattern>where is Zaza Restaurant</pattern>
+	    <template>In Sharqi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+    </category>
+	<category>
+	    <pattern>how can i find Zaza Restaurant</pattern>
+	    <template>In Sharqi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+    </category>
+	<category>
+	    <pattern>where can i find Zaza Restaurant</pattern>
+	    <template>In Sharqi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+    </category>
+	<category>
+	    <pattern>where is Zaza Restaurant located</pattern>
+	    <template>In Sharqi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+    </category>
+	<category>
+	    <pattern>give me the location of Zaza Restaurant</pattern>
+	    <template>In Sharqi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+    </category>
+	<category>
+	    <pattern>where is Zaza Restaurant situated</pattern>
+	    <template>In Sharqi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+    </category>
+    
+    <category>
+    <pattern>where is Friends Restaurant</pattern>
+    <template>In the Restaurants building near the Deanship. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>how can i find Friends Restaurant</pattern>
+    <template>In the Restaurants building near the Deanship. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>where can i find Friends Restaurant</pattern>
+    <template>In the Restaurants building near the Deanship. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>where is Friends Restaurant located</pattern>
+    <template>In the Restaurants building near the Deanship. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>give me the location of Friends Restaurant</pattern>
+    <template>In the Restaurants building near the Deanship. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>where is Friends Restaurant situated</pattern>
+    <template>In the Restaurants building near the Deanship. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+
+
+<category>
+    <pattern>where is Medicine Restaurant</pattern>
+    <template>In the Medicine Faculty. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>how can i find Medicine Restaurant</pattern>
+    <template>In the Medicine Faculty. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>where can i find Medicine Restaurant</pattern>
+    <template>In the Medicine Faculty. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>where is Medicine Restaurant located</pattern>
+    <template>In the Medicine Faculty. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>give me the location of Medicine Restaurant</pattern>
+    <template>In the Medicine Faculty. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>where is Medicine Restaurant situated</pattern>
+    <template>In the Medicine Faculty. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+
+
+<category>
+    <pattern>where is AlGharbi Restaurant</pattern>
+    <template>In AlGharbi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>how can i find AlGharbi Restaurant</pattern>
+    <template>In AlGharbi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>where can i find AlGharbi Restaurant</pattern>
+    <template>In AlGharbi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>where is AlGharbi Restaurant located</pattern>
+    <template>In AlGharbi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>give me the location of AlGharbi Restaurant</pattern>
+    <template>In AlGharbi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+<category>
+    <pattern>where is AlGharbi Restaurant situated</pattern>
+    <template>In AlGharbi building. You can use the Campus Map in the Slide Menu for easy Navigation.</template>
+</category>
+
+<category>
+    <pattern>what are the services that the restaurants provide</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+
+<category>
+    <pattern>what are the services that Zaza Restaurant provides</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+<category>
+    <pattern>what are the services that Friends Restaurant provides</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+<category>
+    <pattern>what are the services that Medicine Restaurant provides</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+<category>
+    <pattern>what are the services that AlGharbi Restaurant provides</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+
+<category>
+    <pattern>what services are offered by the restaurants</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+
+<category>
+    <pattern>what services does Zaza Restaurant offer</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+<category>
+    <pattern>what services does Friends Restaurant offer</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+<category>
+    <pattern>what services does Medicine Restaurant offer</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+<category>
+    <pattern>what services does AlGharbi Restaurant offer</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+
+<category>
+    <pattern>what kind of food do the restaurants provide</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+
+<category>
+    <pattern>what kind of food does Zaza Restaurant provide</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+<category>
+    <pattern>what kind of food does Friends Restaurant provide</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+<category>
+    <pattern>what kind of food does Medicine Restaurant provide</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+<category>
+    <pattern>what kind of food does AlGharbi Restaurant provide</pattern>
+    <template>Fast foods, Hot and Cold Drinks, Super Markets</template>
+</category>
+
+    
+</aiml>
